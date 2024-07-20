@@ -31,7 +31,7 @@ const Navbar = () => {
             <li><Link to="/sale">SALE</Link></li>
           </ul>
           <div className="navbar-logo">
-            <Link to="/"><img src="path/to/your/logo.png" alt="Diesel Logo" /></Link>
+            <Link to="/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHgTb4EcI0cTeqc5BgBcj-VSYKpMRcSKnNA&s" alt="Diesel Logo" /></Link>
           </div>
           <ul className="navbar-icons">
             <li><Link to="/dashboard"><i className="icon-user"></i></Link></li>
