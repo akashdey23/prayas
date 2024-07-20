@@ -1,0 +1,124 @@
+/* src/Footer.css */
+
+.footer {
+    background-color: #fff;
+    color: #333;
+    padding: 40px 20px;
+  }
+  
+  .footer-newsletter {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e00;
+    color: #fff;
+  }
+  
+
+  .newsletter-right{
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .newsletter-left,
+  .newsletter-right {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .newsletter-left h2,
+  .newsletter-right h2 {
+    margin-bottom: 20px;
+  }
+  
+  .newsletter-signup {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .newsletter-signup input[type="email"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .gender-selection {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .gender-selection label {
+    display: flex;
+    align-items: center;
+  }
+  
+  .gender-selection input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  .newsletter-signup button {
+    padding: 10px;
+    background-color: #fff;
+    color: #e00;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .newsletter-signup button:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .social-media-links {
+    padding: 100px;
+    
+  }
+  
+  .social-media-links a {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .footer-column {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .footer-column h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer-column ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: #999;
+  }
+  

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Footer from './components_sadiqua/Footer'
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <h1>react project</h1>
+      <Footer/>
     </>
   )
 }
