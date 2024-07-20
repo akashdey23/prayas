@@ -1,0 +1,15 @@
+/* Wishlist.css */
+.wishlist-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .wishlist-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .wishlist-container p {
+    font-size: 18px;
+    color: #555;
+  }
+  
