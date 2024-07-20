@@ -1,14 +1,14 @@
-import { useState } from 'react'
+// App.jsx
+import React from 'react';
+import Navbar from './Components_Ayush/Navbar'; 
 
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
-      <h1>react project</h1>
-    </>
-  )
-}
+    <div className="App">
+      <Navbar />
+    </div>
+  );
+};
 
-export default App
+export default App;
