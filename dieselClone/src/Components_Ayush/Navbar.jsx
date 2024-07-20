@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import './Navbar.css';
 
-import Home from './pages/Home';
+
 import Man from './pages/Man';
 import Woman from './pages/Woman';
 import Kid from './pages/Kid';
@@ -43,7 +43,7 @@ const Navbar = () => {
       </nav>
 
       <Switch>
-        <Route path="/" exact component={Home} />
+
         <Route path="/man" component={Man} />
         <Route path="/woman" component={Woman} />
         <Route path="/kid" component={Kid} />
