@@ -2,17 +2,17 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import './Navbar.css';
 
-
-//import Man from './pages/Man';
-//import Woman from './pages/Woman';
-//import Kid from './pages/Kid';
-//import SS24 from './pages/SS24';
-//import OneDR from './pages/OneDR';
-//import Sale from './pages/Sale';
-//import Dashboard from './pages/Dashboard'; 
-//import Search from './pages/Search';
-//import Wishlist from './pages/Wishlist';
-//import Cart from './pages/Cart';
+// Import the component files (replace with actual paths)
+import Man from './pages/Man';
+import Woman from './pages/Woman';
+import Kid from './pages/Kid';
+import SS24 from './pages/SS24';
+import OneDR from './pages/OneDR';
+import Sale from './pages/Sale';
+import Dashboard from './pages/Dashboard';
+import Search from './pages/Search';
+import Wishlist from './pages/Wishlist';
+import Cart from './pages/Cart';
 
 const Navbar = () => {
   return (
@@ -43,17 +43,19 @@ const Navbar = () => {
       </nav>
 
       <Switch>
-
-        <Route path="/man" component={Man} />
-        <Route path="/woman" component={Woman} />
-        <Route path="/kid" component={Kid} />
-        <Route path="/ss24" component={SS24} />
-        <Route path="/1dr" component={OneDR} />
-        <Route path="/sale" component={Sale} />
-        <Route path="/dashboard" component={Dashboard} /> 
+        <Route exact path="/man" component={Man} />
+        <Route exact path="/woman" component={Woman} />
+        <Route exact path="/kid" component={Kid} />
+        <Route exact path="/ss24" component={SS24} />
+        <Route exact path="/1dr" component={OneDR} />
+        <Route exact path="/sale" component={Sale} />
+        <Route path="/dashboard" component={Dashboard} />
         <Route path="/search" component={Search} />
         <Route path="/wishlist" component={Wishlist} />
         <Route path="/cart" component={Cart} />
+
+        {/* Consider adding a catch-all route for unmatched paths */}
+        {/* <Route path="*" component={NotFound} /> */}
       </Switch>
     </Router>
   );
