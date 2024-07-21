@@ -34,7 +34,7 @@ const Navbar = () => {
         </div>
       </nav>
 
-      <Switch>
+      {/* <Routes>
         <Route exact path="/man" component={Man} />
         <Route exact path="/woman" component={Woman} />
         <Route exact path="/kid" component={Kid} />
@@ -48,7 +48,7 @@ const Navbar = () => {
 
         {/* Consider adding a catch-all route for unmatched paths */}
         {/* <Route path="*" component={NotFound} /> */}
-      </Switch>
+      {/* </Routes> */}
     </Router>
   );
 };
