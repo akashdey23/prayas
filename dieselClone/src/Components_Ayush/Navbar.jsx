@@ -2,17 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import './Navbar.css';
 
-// Import the component files (replace with actual paths)
-import Man from './pages/Man';
-import Woman from './pages/Woman';
-import Kid from './pages/Kid';
-import SS24 from './pages/SS24';
-import OneDR from './pages/OneDR';
-import Sale from './pages/Sale';
-import Dashboard from './pages/Dashboard';
-import Search from './pages/Search';
-import Wishlist from './pages/Wishlist';
-import Cart from './pages/Cart';
+
+
 
 const Navbar = () => {
   return (
