@@ -12,6 +12,7 @@ const Navbar = () => {
   const [isSS24SubMenuOpen, setIsSS24SubMenuOpen] = useState(false);
   //const [is1DRSubMenuOpen, setIs1DRSubMenuOpen] = useState(false);
   const [isSaleSubMenuOpen, setIsSaleSubMenuOpen] = useState(false);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const handleManSubMenuToggle = () => {
     setIsManSubMenuOpen(!isManSubMenuOpen);
@@ -29,13 +30,18 @@ const Navbar = () => {
     setIsSS24SubMenuOpen(!isSS24SubMenuOpen);
   };
 
-  //const handle1DRSubMenuToggle = () => {
-    //setIs1DRSubMenuOpen(!is1DRSubMenuOpen);
-  //};
+  const handle1DRSubMenuToggle = () => {
+     setIs1DRSubMenuOpen(!is1DRSubMenuOpen);
+  };
 
   const handleSaleSubMenuToggle = () => {
     setIsSaleSubMenuOpen(!isSaleSubMenuOpen);
   };
+
+  const toggleDropdown = () => {
+    setIsDropdownOpen(!isDropdownOpen);
+  };
+
 
   return (
     <Router>
@@ -85,16 +91,9 @@ const Navbar = () => {
             </ul>
           )}
         </li>
-         {/*<li onMouseEnter={handle1DRSubMenuToggle} onMouseLeave={handle1DRSubMenuToggle}>
+         <li onMouseEnter={handle1DRSubMenuToggle} onMouseLeave={handle1DRSubMenuToggle}>
           <Link to="/1dr">1DR</Link>
-          {is1DRSubMenuOpen && (
-            <ul className="sub-menu">
-              <li><Link to="/1dr/denim">Denim</Link></li>
-              <li><Link to="/1dr/leather">Leather</Link></li>
-              <li><Link to="/1dr/accessories">Accessories</Link></li>
-            </ul>
-          )}
-        </li>*/}
+        </li>
         <li onMouseEnter={handleSaleSubMenuToggle} onMouseLeave={handleSaleSubMenuToggle}>
           <Link to="/sale">SALE</Link>
           {isSaleSubMenuOpen && (
@@ -113,16 +112,44 @@ const Navbar = () => {
         <Link to="/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHgTb4EcI0cTeqc5BgBcj-VSYKpMRcSKnNA&s" alt="Diesel Logo" /></Link>
     </div>
 
-    <div className="navbar-icons">
-            <ul>
-              <li><Link to="/dashboard"><FontAwesomeIcon icon={faUser} /></Link></li>
-              <li><Link to="/search"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
-              <li><Link to="/info"><FontAwesomeIcon icon={faInfoCircle} /></Link></li>
-              <li><Link to="/wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
-              <li><Link to="/cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
-            </ul>
-          </div>
+      <div className="navbar-icons">
+        <ul>
+          <li>
+            <div className="dropdown" onClick={toggleDropdown}>
+              <FontAwesomeIcon icon={faUser} />
+              {isDropdownOpen && (
+                <ul className="dropdown-menu">
+                  <li><Link to="/dashboard">Account Dashboard</Link></li>
+                  <li><Link to="/address-book">My Address Book</Link></li>
+                  <li><Link to="/orders">My Orders</Link></li>
+                  <li><Link to="/logout">Logout</Link></li>
+                </ul>
+              )}
+            </div>
+          </li>
+          <li><Link to="/search"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
+          <li>
+            <div className="dropdown" onClick={toggleDropdown}>
+              <FontAwesomeIcon icon={faInfoCircle} />
+              {isDropdownOpen && (
+                <ul className="dropdown-menu">
+                  <li><Link to="/Check your order">Check your order</Link></li>
+                  <li><Link to="/Return your order">Return your order</Link></li>
+                  <li><Link to="/Delivery">Delivery</Link></li>
+                  <li><Link to="/Send us a Message">Send us a Message</Link></li>
+                  <li><Link to="/Buy Luxe Gift Card">Buy Luxe Gift Card</Link></li>
+                  <li><Link to="/View All">View All</Link></li>
+                </ul>
+              )}
+            </div>
+          </li>
+          
+          <li><Link to="/wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
+          <li><Link to="/cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
+        </ul>
+      </div>
     </nav>
+
     {/* <Routes>
         <Route exact path="/man" component={Man} />
         <Route exact path="/woman" component={Woman} />
