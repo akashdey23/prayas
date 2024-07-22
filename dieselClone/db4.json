@@ -1,0 +1,3291 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Designer Denim fit for Men",
+            "oldprice":9999,
+            "newprice": 8999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 2,
+            "title": "Designer Denim fit for Men",
+            "oldprice": 7999,
+            "newprice": 4999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 3,
+            "title": "Designer Denim fit for Men",
+            "oldprice": 2999,
+            "newprice": 1999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 4,
+            "title": "Designer Denim fit for Men",
+            "oldprice":5999,
+            "newprice": 4999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 5,
+            "title": "Designer Denim fit for Men",
+            "oldprice":9999,
+            "newprice": 8999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 6,
+            "title": "Designer Denim fit for Men",
+            "oldprice": 3999,
+            "newprice": 2999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 37,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 7,
+            "title": "Designer Denim fit for Men",
+            "oldprice":7999,
+            "newprice": 6999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 8,
+            "title": "Designer Denim fit for Men",
+            "oldprice":10999,
+            "newprice": 8999,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            "category": "men_den",
+            "image": "Images/denim_img_men8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 9,
+            "title": "Designer Denim fit for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 10,
+            "title": "Designer Denim fit for Women",
+            "oldprice":7999,
+            "newprice": 5999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 11,
+            "title": "Designer Denim fit for Women",
+            "oldprice":4999,
+            "newprice": 3999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 12,
+            "title": "Designer Denim fit for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 13,
+            "title": "Designer Denim fit for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 14,
+            "title": "Designer Denim fit for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 15,
+            "title": "Designer Denim fit for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "women_den",
+            "image": "Images/denim_img_women7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 16,
+            "title": "Designer Denim for Women",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "men_den",
+            "image": "Images/denim_img_women8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 17,
+            "title": "Main Img",
+            "oldprice":10999,
+            "newprice": 9999,
+            "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
+            "category": "main",
+            "image": "Images/home_banner.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 18,
+            "title": "White Shirt",
+            "oldprice":15999,
+            "newprice": 10999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHIRT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 19,
+            "title": "White Shoes",
+            "oldprice":25999,
+            "newprice": 20999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img2avif.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOE",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 20,
+            "title": "Black Denim",
+            "oldprice":25999,
+            "newprice": 15999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 21,
+            "title": "LOWERS",
+            "oldprice":15999,
+            "newprice": 10999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "LOWER",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 22,
+            "title": "Red Skinny Jeans",
+            "oldprice":5999,
+            "newprice": 3999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 23,
+            "title": "Denim for men",
+            "oldprice":15999,
+            "newprice": 10999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "DENIM",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 24,
+            "title": "Black Casuals",
+            "oldprice":2999,
+            "newprice": 1999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 25,
+            "title": "Sunglasses",
+            "oldprice":4999,
+            "newprice": 3999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 26,
+            "title": "Oversized Tee's",
+            "oldprice":5999,
+            "newprice": 3999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TEE",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 27,
+            "title": "Stylish Masks",
+            "oldprice":999,
+            "newprice": 499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "home",
+            "image": "Images/home_img10.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "MASK",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 28,
+            "title": "Pants for Men",
+            "oldprice":10999,
+            "newprice": 8499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_pant",
+            "image": "Images/men_pant1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 29,
+            "title": "Pants for Men",
+            "oldprice":4999,
+            "newprice": 3499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_pant",
+            "image": "Images/men_pant2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 30,
+            "title": "Pants for Men",
+            "oldprice":7999,
+            "newprice": 6499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_pant",
+            "image": "Images/men_pant3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 31,
+            "title": "Pants for Men",
+            "oldprice":10999,
+            "newprice": 8499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_pant",
+            "image": "Images/men_pant4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 32,
+            "title": "Pants for Men",
+            "oldprice":7999,
+            "newprice": 5499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_pant",
+            "image": "Images/men_pant5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 33,
+            "title": "Pants for Women",
+            "oldprice":8999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 34,
+            "title": "Pants for Women",
+            "oldprice":6999,
+            "newprice": 4999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 35,
+            "title": "Pants for Women",
+            "oldprice":8999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 36,
+            "title": "Pants for Women",
+            "oldprice":8999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 37,
+            "title": "Pants for Women",
+            "oldprice":8999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 38,
+            "title": "Pants for Women",
+            "oldprice":8999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_pant",
+            "image": "Images/women_pant6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "PANT",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 39,
+            "title": "Sports Shoes",
+            "oldprice":11999,
+            "newprice": 10499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 40,
+            "title": "Sports Shoes",
+            "oldprice":12999,
+            "newprice": 10499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 41,
+            "title": "Sports Shoes",
+            "oldprice":10999,
+            "newprice": 8499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 42,
+            "title": "Sports Shoes",
+            "oldprice":16999,
+            "newprice": 13499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 43,
+            "title": "Sports Shoes",
+            "oldprice":7999,
+            "newprice": 5499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 44,
+            "title": "Sports Shoes",
+            "oldprice":11999,
+            "newprice": 10499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 45,
+            "title": "Sports Shoes",
+            "oldprice":10999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 46,
+            "title": "Sports Shoes",
+            "oldprice":11999,
+            "newprice": 10499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 47,
+            "title": "Sports Shoes",
+            "oldprice":8999,
+            "newprice": 5499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 48,
+            "title": "Sports Shoes",
+            "oldprice":11999,
+            "newprice": 10499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss10.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 49,
+            "title": "Sports Shoes",
+            "oldprice":16999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "eoss",
+            "image": "Images/eoss11.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SHOES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 50,
+            "title": "Tops for Women",
+            "oldprice":17999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 51,
+            "title": "Tops for Women",
+            "oldprice":19999,
+            "newprice": 17499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 52,
+            "title": "Tops for Women",
+            "oldprice":17999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 53,
+            "title": "Tops for Women",
+            "oldprice":17999,
+            "newprice": 16499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 54,
+            "title": "Tops for Women",
+            "oldprice":11999,
+            "newprice": 10099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 55,
+            "title": "Tops for Women",
+            "oldprice":17999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 56,
+            "title": "Tops for Women",
+            "oldprice":17999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 57,
+            "title": "Tops for Women",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "women_top",
+            "image": "Images/female_topwear8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "TOPS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 58,
+            "title": "Footwears",
+            "oldprice":2999,
+            "newprice": 1499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 59,
+            "title": "Belt",
+            "oldprice":999,
+            "newprice": 499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 60,
+            "title": "Golden Relic Shoes",
+            "oldprice":7999,
+            "newprice": 6499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 61,
+            "title": "Diesel Undies",
+            "oldprice":999,
+            "newprice": 499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 62,
+            "title": "Male Jeans",
+            "oldprice":7999,
+            "newprice": 5499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 63,
+            "title": "Skinny Jeans",
+            "oldprice":9999,
+            "newprice": 7499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 64,
+            "title": "Flock Set",
+            "oldprice":17999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 65,
+            "title": "Undies",
+            "oldprice":1999,
+            "newprice": 999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 66,
+            "title": "Oversized Tee's",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "limited",
+            "image": "Images/limited_stock9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "FOOTWEARS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 67,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 68,
+            "title": "Men Casuals",
+            "oldprice":12999,
+            "newprice": 11499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 69,
+            "title": "Men Casuals",
+            "oldprice":25999,
+            "newprice": 22499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 70,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 71,
+            "title": "Men Casuals",
+            "oldprice":35999,
+            "newprice": 32499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 72,
+            "title": "Men Casuals",
+            "oldprice":23999,
+            "newprice": 21499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 73,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 74,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 75,
+            "title": "Men Casuals- Hoodies",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "CASUAL",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 76,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 77,
+            "title": "Diesel Boxers",
+            "oldprice":2599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 78,
+            "title": "Diesel Undies",
+            "oldprice":1099,
+            "newprice": 999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 79,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 80,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 81,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 82,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "men_undi",
+            "image": "Images/men_undi9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "UNDIES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 83,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 84,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 85,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 86,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 87,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 88,
+            "title": "Designer Handbags",
+            "oldprice":10599,
+            "newprice": 8099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "handbags",
+            "image": "Images/bag7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "HANDBAGS",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 89,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 90,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 91,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 92,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 93,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 94,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 95,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 96,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 97,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 98,
+            "title": "Stylish Sunglasses",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "glasses",
+            "image": "Images/glass10.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "GLASSES",
+                "Style Code": "Y03204 P5578"
+            }
+          }, 
+          {
+            "id": 99,
+            "title": "Red Cap",
+            "oldprice":1599,
+            "newprice": 999,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 100,
+            "title": "Utility Bag",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 101,
+            "title": "Diesel Undies",
+            "oldprice":1599,
+            "newprice": 1099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 102,
+            "title": "Denim for Men",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling4.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 103,
+            "title": "White Shoes",
+            "oldprice":17599,
+            "newprice": 16099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 104,
+            "title": "Denim for Men",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 105,
+            "title": "Golden Watch",
+            "oldprice":37599,
+            "newprice": 26099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },  
+          {
+            "id": 106,
+            "title": "Black Tee",
+            "oldprice":17599,
+            "newprice": 16099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 107,
+            "title": "Blue Denim",
+            "oldprice":7599,
+            "newprice": 6099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 108,
+            "title": "TRAP T-shirt",
+            "oldprice":37599,
+            "newprice": 28099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "topsell",
+            "image": "Images/topselling10.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "SELLAF",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 109,
+            "title": "Dynamic Watch",
+            "oldprice":17599,
+            "newprice": 14099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch1.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 110,
+            "title": "Dynamic Watch",
+            "oldprice":7599,
+            "newprice": 4099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch2.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 111,
+            "title": "Dynamic Watch",
+            "oldprice":27599,
+            "newprice": 24099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch3.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 112,
+            "title": "Dynamic Watch",
+            "oldprice":37599,
+            "newprice": 25099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch5.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 113,
+            "title": "Dynamic Watch",
+            "oldprice":19599,
+            "newprice": 17099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch6.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 114,
+            "title": "Dynamic Watch",
+            "oldprice":17599,
+            "newprice": 14099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch7.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 115,
+            "title": "Dynamic Watch",
+            "oldprice":23599,
+            "newprice": 19099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch8.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id": 116,
+            "title": "Dynamic Watch",
+            "oldprice":43599,
+            "newprice": 34099,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "watches",
+            "image": "Images/watch9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "Customer Support Details": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "Marketed And Imported By": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "Net Quantity": "1 N",
+                "Country Of Origin": "VIETNAM",
+                "Name Of Commodity": "WATCHES",
+                "Style Code": "Y03204 P5578"
+            }
+          },
+          {
+            "id":117,
+            "title": "Camouflage",
+            "image": "Images/Camouflage.jpg"
+          },
+          {
+            "id":118,
+            "title": "DNAwash",
+            "image": "Images/DNAwash.jpg"
+          },
+          {
+            "id":119,
+            "title": "Mettalic",
+            "image": "Images/Mettalic.jpg"
+          },
+          {
+            "id":120,
+            "title": "OvalD",
+            "image": "Images/OvalD.jpg"
+          }
+    ],
+    "cartprods":[],
+    "users":[
+        {
+            "username":"Arjit",
+            "password":"QWERTY@1234",
+            "email":"m.arjit2005@gmail.com",
+            "mob":"7077786289",
+            "otp":"0000"
+        }
+    ],
+    "admins":[
+        {
+            "username":"Arjit",
+            "password":"QWERTY@1234",
+            "email":"m.arjit2005@gmail.com",
+            "mob":"7077786289",
+            "otp":"0000"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+/* Dashboard.css */
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .dashboard-content {
+    display: flex;
+  }
+  
+  .dashboard-sidebar {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .dashboard-sidebar h2 {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dashboard-sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-sidebar a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .dashboard-main {
+    flex: 3;
+    padding: 20px;
+  }
+  
+  .dashboard-main section {
+    margin-bottom: 40px;
+  }
+  
+  .dashboard-main h2 {
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-main p {
+    margin: 5px 0;
+  }
+  
+  .dashboard-main button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .dashboard-main button:hover {
+    background-color: #555;
+  }
+  
