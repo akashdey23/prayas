@@ -16,7 +16,7 @@ const App = () => {
 
 
     
-      <h1>react project</h1>
+
       <Login/>
       <Wishlist/>
       <Cart/>
