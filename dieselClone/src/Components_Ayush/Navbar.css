@@ -1,5 +1,8 @@
 /* Navbar.css */
+
+/* Announcement bar (optional for Diesel style) */
 .navbar-announcement {
+<<<<<<< HEAD
   background-color: #ffebeb;
   color: #e2231a;
   text-align: center;
@@ -7,34 +10,62 @@
   z-index: 1;
   border-radius: 5px 5px 0 0;
   margin-bottom: 1rem; 
+=======
+  display: none; /* Hide announcement for Diesel style */
+  /* uncomment and adjust styles if you want an announcement */
+  /* background-color: #ffebeb;
+   color: #e2231a;
+   text-align: center;
+   padding: 10px 0;
+   position: relative;
+   z-index: 1;
+   border-radius: 5px 5px 0 0;
+   margin-bottom: 1rem; */
+>>>>>>> 1ff284e661cfe88baea9cdbba717afec2ebe6664
 }
 
 .navbar {
   display: flex;
-  flex-direction: column;
-  background-color: #e2231a;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #e2231a; 
   color: white;
   padding: 1rem 2rem;
+<<<<<<< HEAD
   margin-bottom: -20px;
   margin-top: -20px;
+=======
+  height: 60px; /* Set a height for the navbar */
+>>>>>>> 1ff284e661cfe88baea9cdbba717afec2ebe6664
 }
 
 .navbar-main {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: center; /* Vertical centering */
 }
 
-.navbar-links, .navbar-icons {
+.navbar-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  flex-grow: 1; /* Allow links to grow and fill space */
+  justify-content: center; /* Align links to the left */
+}
+
+.navbar-icons {
   display: flex;
   margin: 0;
   padding: 0;
 }
 
 .navbar-links li, .navbar-icons li {
-  display: inline-block; 
-  margin: 0 1rem; 
-  font-weight: bold; 
+  display: inline-block;
+  margin: 0 1rem; /* Adjust margin between items */
+  font-weight: bold;
+  text-transform: uppercase; /* Uppercase text for Diesel style */
+  font-size: 0.8rem; /* Adjust font size as needed */
 }
 
 .navbar-links a, .navbar-icons a {
@@ -43,38 +74,65 @@
 }
 
 .navbar-links a:hover, .navbar-icons li:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* Optional for hover effect */
 }
 
 .navbar-logo {
-  flex: 1;
+  flex: 0 0 50%; /* Center logo with flexbox */
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .navbar-logo img {
-  height: 60px;
+  height: 60px; /* Adjust logo height as needed */
 }
 
 .icon-user, .icon-search, .icon-heart, .icon-cart, .icon-info-circle {
-  font-size: 20px;
-  color: #e2231a;
+  font-size: 20px; /* Adjust icon size if needed */
+  color: white; /* White icons for Diesel style */
 }
 
 .navbar-icons li:hover {
-  transform: scale(1.1);
+  transform: scale(1.1); /* Optional hover effect */
   transition: transform 0.2s ease-in-out;
-  cursor: pointer; 
+  cursor: pointer;
+}
+
+/* Sub-menu styles (adjust as needed) */
+.sub-menu {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  width: auto;
+  display: flex;
+}
+
+.navbar-links li:hover .sub-menu {
+  display: block;
+}
+
+.sub-menu li {
+  list-style: none;
+  padding: 10px;
+  text-align: left;
+}
+
+.sub-menu a {
+  color: #333;
+  text-decoration: none;
 }
 
 @media (max-width: 768px) {
-  .navbar-main {
-    flex-direction: column;
+  .navbar {
+    flex-direction: column; /* Stack elements on small screens */
     align-items: center;
   }
 
-  .navbar-links li, .navbar-icons li {
-    margin: 0.5rem; 
+  .navbar-links,
+  .navbar-icons {
+    margin: 0.5rem; /* Adjust margin on small screens */
   }
 }
