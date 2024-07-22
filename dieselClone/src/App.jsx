@@ -14,18 +14,12 @@ const App = () => {
     <div className="App">
       <Navbar />
     </div>
-<<<<<<< HEAD
+
     <Router>
       <Routes>
         <Route path="/" element={<Overlay />} />
       </Routes>
     </Router>
-=======
-
-
-    
-
->>>>>>> 1ff284e661cfe88baea9cdbba717afec2ebe6664
       <Login/>
       <Wishlist/>
       <Cart/>
