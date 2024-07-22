@@ -30,9 +30,9 @@ const Navbar = () => {
             <ul>
               <li><Link to="/dashboard"><FontAwesomeIcon icon={faUser} /></Link></li>
               <li><Link to="/search"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
+              <li><Link to="/info"><FontAwesomeIcon icon={faInfoCircle} /></Link></li>
               <li><Link to="/wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
               <li><Link to="/cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
-              <li><Link to="/info"><FontAwesomeIcon icon={faInfoCircle} /></Link></li>
             </ul>
           </div>
         </div>
