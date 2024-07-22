@@ -1,0 +1,24 @@
+.loginBox{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 500px;
+    background-color: rgb(226, 222, 222);
+    margin: auto;
+    padding: 10px;
+    margin-top: 100px;
+  }
+  .title{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+  }
+  .box{
+    width: 450px;
+    height: 30px;
+    font-size: medium;
+    /* border: 1px solid grey; */
+  }
+  .signin text{
+    font: 500;
+  }
