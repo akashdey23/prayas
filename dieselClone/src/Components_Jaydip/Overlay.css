@@ -1,0 +1,50 @@
+/* src/components/Overlay.css */
+.overlay-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .background-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 200px;
+  }
+  
+  .shop-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .shop-button:hover {
+    background-color: darkred;
+  }
+  

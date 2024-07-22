@@ -3,7 +3,6 @@
   background-color: #ffebeb;
   color: #e2231a;
   text-align: center;
-  padding: 10px 0;
   position: relative;
   z-index: 1;
   border-radius: 5px 5px 0 0;
@@ -16,6 +15,8 @@
   background-color: #e2231a;
   color: white;
   padding: 1rem 2rem;
+  margin-bottom: -20px;
+  margin-top: -20px;
 }
 
 .navbar-main {
