@@ -2,6 +2,15 @@
 
 /* Announcement bar (optional for Diesel style) */
 .navbar-announcement {
+
+  background-color: #ffebeb;
+  color: #e2231a;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 1rem; 
+
   display: none; /* Hide announcement for Diesel style */
   /* uncomment and adjust styles if you want an announcement */
   /* background-color: #ffebeb;
@@ -12,6 +21,7 @@
    z-index: 1;
    border-radius: 5px 5px 0 0;
    margin-bottom: 1rem; */
+
 }
 
 .navbar {
@@ -21,7 +31,12 @@
   background-color: #e2231a; 
   color: white;
   padding: 1rem 2rem;
+
+  margin-bottom: -20px;
+  margin-top: -20px;
+
   height: 60px; /* Set a height for the navbar */
+
 }
 
 .navbar-main {
