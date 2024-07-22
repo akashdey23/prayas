@@ -1,72 +1,78 @@
 /* Navbar.css */
 .navbar {
-    display: flex;
-    flex-direction: column;
-    background-color: #e2231a;
-    color: white;
-  }
-  
-  .navbar-announcement {
-    background-color: #ffebeb;
-    color: #e2231a;
-    text-align: center;
-    padding: 10px 0;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  background-color: #e2231a;
+  color: white;
+  padding: 1rem 2rem; 
+}
+
+.navbar-announcement {
+  background-color: #ffebeb;
+  color: #e2231a;
+  text-align: center;
+  padding: 10px 0;
+  position: relative; 
+  z-index: 1;
+  border-radius: 5px 5px 0 0; 
+}
+
+.navbar-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-links, .navbar-icons {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li, .navbar-icons li {
+  display: inline-block; 
+  margin: 0 1rem; 
+  font-weight: bold; 
+}
+
+.navbar-links a, .navbar-icons a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover, .navbar-icons li:hover {
+  text-decoration: underline;
+}
+
+.navbar-logo {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-logo img {
+  height: 60px;
+}
+
+.icon-user, .icon-search, .icon-heart, .icon-cart, .icon-info-circle {
+  font-size: 20px;
+  color: #e2231a;
+}
+
+.navbar-icons li:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer; 
+}
+
+@media (max-width: 768px) {
   .navbar-main {
-    display: flex;
-    justify-content: space-between;
+    flex-direction: column;
     align-items: center;
-    padding: 1rem 2rem;
   }
-  
-  .navbar-links, .navbar-icons {
-    list-style-type: none;
-    display: flex;
-    margin: 0;
-    padding: 0;
-  }
-  
+
   .navbar-links li, .navbar-icons li {
-    margin: 0 1rem;
+    margin: 0.5rem; 
   }
-  
-  .navbar-links a, .navbar-icons a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  .navbar-links a:hover, .navbar-icons a:hover {
-    text-decoration: underline;
-  }
-  
-  .navbar-logo {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .navbar-logo img {
-    height: 50px; 
-  }
-  
-  .icon-user, .icon-search, .icon-heart, .icon-cart {
-    font-size: 1.5rem; 
-    color: white;
-  }
-  
-  @media (max-width: 768px) {
-    .navbar-main {
-      flex-direction: column;
-    }
-  
-    .navbar-links, .navbar-icons {
-      justify-content: center;
-    }
-  
-    .navbar-links li, .navbar-icons li {
-      margin: 0.5rem;
-    }
-  }
-  
+}

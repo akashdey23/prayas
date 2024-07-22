@@ -1,9 +1,8 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCartShopping, faHeart, faUser, faMagnifyingGlass, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 import './Navbar.css';
-
-
 
 
 const Navbar = () => {
@@ -22,15 +21,20 @@ const Navbar = () => {
             <li><Link to="/1dr">1DR</Link></li>
             <li><Link to="/sale">SALE</Link></li>
           </ul>
+
           <div className="navbar-logo">
             <Link to="/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHgTb4EcI0cTeqc5BgBcj-VSYKpMRcSKnNA&s" alt="Diesel Logo" /></Link>
           </div>
-          <ul className="navbar-icons">
-            <li><Link to="/dashboard"><i className="icon-user"></i></Link></li>
-            <li><Link to="/search"><i className="icon-search"></i></Link></li>
-            <li><Link to="/wishlist"><i className="icon-heart"></i></Link></li>
-            <li><Link to="/cart"><i className="icon-cart"></i></Link></li>
-          </ul>
+         
+          <div className="navbar-icons">
+            <ul>
+              <li><Link to="/dashboard"><FontAwesomeIcon icon={faUser} /></Link></li>
+              <li><Link to="/search"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
+              <li><Link to="/wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
+              <li><Link to="/cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
+              <li><Link to="/info"><FontAwesomeIcon icon={faInfoCircle} /></Link></li>
+            </ul>
+          </div>
         </div>
       </nav>
 
