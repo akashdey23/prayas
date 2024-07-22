@@ -1,20 +1,21 @@
 /* Navbar.css */
-.navbar {
-  display: flex;
-  flex-direction: column;
-  background-color: #e2231a;
-  color: white;
-  padding: 1rem 2rem; 
-}
-
 .navbar-announcement {
   background-color: #ffebeb;
   color: #e2231a;
   text-align: center;
   padding: 10px 0;
-  position: relative; 
+  position: relative;
   z-index: 1;
-  border-radius: 5px 5px 0 0; 
+  border-radius: 5px 5px 0 0;
+  margin-bottom: 1rem; /* Add margin bottom to seperate from navbar */
+}
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  background-color: #e2231a;
+  color: white;
+  padding: 1rem 2rem;
 }
 
 .navbar-main {
