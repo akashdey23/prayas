@@ -7,7 +7,7 @@
   position: relative;
   z-index: 1;
   border-radius: 5px 5px 0 0;
-  margin-bottom: 1rem; /* Add margin bottom to seperate from navbar */
+  margin-bottom: 1rem; 
 }
 
 .navbar {
