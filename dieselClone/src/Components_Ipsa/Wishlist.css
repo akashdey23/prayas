@@ -1,0 +1,35 @@
+.outerBox{
+    border: 1px solid black;
+    height: 300px;
+    margin: 100px auto;
+    width: 500px;
+}
+.wish{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 30px;
+}

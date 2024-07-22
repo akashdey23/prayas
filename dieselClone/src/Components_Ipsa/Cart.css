@@ -1,0 +1,31 @@
+.bigbox{
+    border: 1px solid black;
+    height: 300px;
+    margin: 100px auto;
+    width: 900px;
+}
+.yourcart{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.mainbox{
+    width: 700px;
+    height: 100px;
+    background-color: rgb(221, 220, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 130px;
+
+}
+.shopping{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}

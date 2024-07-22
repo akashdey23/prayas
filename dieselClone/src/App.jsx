@@ -1,9 +1,11 @@
 // App.jsx
 import React from 'react';
 import Navbar from './Components_Ayush/Navbar';
-import Login from './Components_Ipsa/Login'; 
+import Login from './Components_Ipsa/Login';
 import { useState } from 'react'
 import Footer from './components_sadiqua/Footer'
+import { Wishlist } from './Components_Ipsa/Wishlist';
+import { Cart } from './Components_Ipsa/Cart';
 
 
 const App = () => {
@@ -17,6 +19,8 @@ const App = () => {
     
       <h1>react project</h1>
       <Login/>
+      <Wishlist/>
+      <Cart/>
       <Footer/>
     </>
   );
