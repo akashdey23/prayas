@@ -1,0 +1,30 @@
+/* src/components/Gallery.css */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .gallery-item {
+    position: relative;
+    margin: 10px;
+    width: 45%;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .label {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding-bottom: 150px;
+  }
+  
