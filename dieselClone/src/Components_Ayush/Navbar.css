@@ -101,7 +101,7 @@
 
 /* Sub-menu styles (adjust as needed) */
 .sub-menu {
-  display: none;
+  display: block;
   position: absolute;
   background-color: #fff;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -136,7 +136,7 @@
   left: 0;
   background-color: #fff;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  z-index: 1;
+  z-index: 99999;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -155,12 +155,12 @@
 
 @media (max-width: 768px) {
   .navbar {
-    flex-direction: column; /* Stack elements on small screens */
+    flex-direction: column; 
     align-items: center;
   }
 
   .navbar-links,
   .navbar-icons {
-    margin: 0.5rem; /* Adjust margin on small screens */
+    margin: 0.5rem;
   }
 }

@@ -1,0 +1,32 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .search-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .clear-btn {
+    margin-left: 10px;
+    padding: 5px 7px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: #999;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .clear-btn:hover {
+    color: #333;
+  }
+  
+  .clear-btn i {
+    font-size: 14px;
+  }
+  

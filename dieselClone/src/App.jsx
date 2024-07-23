@@ -9,6 +9,7 @@ import { Cart } from './Components_Ipsa/Cart';
 import Overlay from './Components_Jaydip/Overlay';
 import Gallery from './components_sadiqua/Gallery';
 
+
 const App = () => {
   return (
     <>

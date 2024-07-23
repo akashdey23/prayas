@@ -5,6 +5,7 @@ import { faCartShopping, faHeart, faUser, faMagnifyingGlass, faInfoCircle } from
 import './Navbar.css';
 
 
+
 const Navbar = () => {
   const [isManSubMenuOpen, setIsManSubMenuOpen] = useState(false);
   const [isWomanSubMenuOpen, setIsWomanSubMenuOpen] = useState(false);
@@ -127,8 +128,11 @@ const Navbar = () => {
               )}
             </div>
           </li>
-          <li><Link to="/search"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
+
+          <li><Link to="/searchbar"><FontAwesomeIcon icon={faMagnifyingGlass} /></Link></li>
+
           <li>
+
             <div className="dropdown" onClick={toggleDropdown}>
               <FontAwesomeIcon icon={faInfoCircle} />
               {isDropdownOpen && (
