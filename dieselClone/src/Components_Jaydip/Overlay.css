@@ -50,7 +50,9 @@
   }
   
   .shop-button:hover {
-    background-color: darkred;
+    background-color: rgba(119, 3, 3, 0);
+    color: red;
+    border: 2px solid red;
   }
   @media (max-width: 768px) {
     .overlay-content {
