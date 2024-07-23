@@ -1,0 +1,176 @@
+.product-detail {
+    display: flex;
+    padding: 20px;
+  }
+  
+  .image-section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .image-section img {
+    width: 100%;
+  }
+  
+  .details-section {
+    /* align-content: flex-end; */
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .price {
+    display: flex;
+    align-items: center;
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+    margin-right: 10px;
+  }
+  
+  .discounted-price {
+    color: red;
+  }
+  
+  .tax-info {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .color-selection, .size-selection {
+    margin: 20px 0;
+  }
+  
+  .color-options, .size-options {
+    display: flex;
+  }
+  
+  .color-button1, .size-button {
+    margin: 0 5px;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    /* border-radius: 20px; */
+  }
+  .color-button2, .size-button {
+    margin: 0 5px;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    /* border-radius: 20px; */
+  }
+  .size-button{
+    width: 100px;
+  }
+  .color-button1{
+    background-color: white;
+    border-radius: 50px;
+
+  }
+  .color-button2{
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+
+  }
+
+  
+  .color-button.selected, .size-button.selected {
+    border: 2px solid red;
+  }
+  .color-button.selected{
+    border:53px solid red
+  }
+  .size-button.selected{
+    background-color: black;
+    color: white;
+  }
+  
+  .check-delivery, .add-to-cart {
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .txtcd{
+    margin: 10px 0;
+    padding: 10px 20px;
+
+  }
+  .add-to-cart{
+    width: 375px;
+  }
+  .add-to-cart:hover{
+    background-color: gray;
+  }
+  .check-delivery:hover{
+    background-color: gray;
+  }
+  .wrapper{
+    display:flex;
+  }
+  .collapsible{
+    max-width: 450px;
+    overflow:hidden;
+    font-weight: 500;
+  }
+  .collapsible label{
+    position: relative;
+    font-weight: 600;
+    display:block;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 5px 0;
+    border-radius: 4px;
+    z-index: 1;
+
+  }
+  .collapsible input{
+    display: none;
+  }
+  .collapsible label::after{
+    content: "";
+    position: absolute;
+    right:15px;
+    /* top:20px; */
+    width:18px;
+    height:18px;
+    transition: all 0.3s ease;
+
+  }
+  .collapsible-text{
+    max-height: 1px;
+    overflow: hidden;
+    border-radius: 4px;
+    line-height: 1.4;
+    position: relative;
+    top: -100%;
+    opacity: 0.5;
+    transition: all 0.3s ease;
+
+  }
+  .collapsible input:checked ~ .collapsible-text{
+    max-height: 300px;
+    /* padding-bottom: 25px; */
+    opacity: 1;
+    top: 0;
+    
+  }
+  .collapsible-text p{
+    /* padding-left: 15px; */
+    padding-right: 15px;
+     
+  }
+  .collapsible input:checked + label:after {
+    transform: rotate(90deg);
+  }
+  .heart{
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    align-content: flex-end;
+  }
+  .heart:hover{
+    color: rgb(0, 0, 0);
+  }
