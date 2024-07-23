@@ -1,27 +1,36 @@
 /* Navbar.css */
 
 /* Announcement bar (optional for Diesel style) */
-.navbar-announcement {
+.navbar-container {
+  display: flex; 
+  flex-direction: column; 
+}
 
-  background-color: #ffebeb;
-  color: #e2231a;
+.announcement-section {
+  background-color: #f5f5f5;
+  padding: 1rem;
   text-align: center;
-  position: relative;
-  z-index: 1;
-  border-radius: 5px 5px 0 0;
-  margin-bottom: 1rem; 
+  color: #333; .announcement-section {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    text-align: center;
+    color: #333; 
+  }
+}
 
-  display: none; /* Hide announcement for Diesel style */
-  /* uncomment and adjust styles if you want an announcement */
-  /* background-color: #ffebeb;
-   color: #e2231a;
-   text-align: center;
-   padding: 10px 0;
-   position: relative;
-   z-index: 1;
-   border-radius: 5px 5px 0 0;
-   margin-bottom: 1rem; */
+.announcement-section p {
+  margin: 0; 
+  animation: scroll 5s linear infinite;
+  text-decoration: #e2231a;
+}
 
+@keyframes scroll {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px); 
+  }
 }
 
 .navbar {
@@ -31,17 +40,16 @@
   background-color: #e2231a; 
   color: white;
   padding: 1rem 2rem;
-
   margin-bottom: -20px;
   margin-top: -20px;
 
-  height: 60px; /* Set a height for the navbar */
+  height: 60px; 
 
 }
 
 .navbar-main {
   display: flex;
-  align-items: center; /* Vertical centering */
+  align-items: center;
 }
 
 .navbar-links {
@@ -50,8 +58,8 @@
   margin: 0;
   padding: 0;
   align-items: center;
-  flex-grow: 1; /* Allow links to grow and fill space */
-  justify-content: center; /* Align links to the left */
+  flex-grow: 1; 
+  justify-content: center; 
 }
 
 .navbar-icons {
@@ -62,10 +70,10 @@
 
 .navbar-links li, .navbar-icons li {
   display: inline-block;
-  margin: 0 1rem; /* Adjust margin between items */
+  margin: 0 1rem; 
   font-weight: bold;
-  text-transform: uppercase; /* Uppercase text for Diesel style */
-  font-size: 0.8rem; /* Adjust font size as needed */
+  text-transform: uppercase; 
+  font-size: 0.8rem; 
 }
 
 .navbar-links a, .navbar-icons a {
@@ -74,39 +82,38 @@
 }
 
 .navbar-links a:hover, .navbar-icons li:hover {
-  text-decoration: underline; /* Optional for hover effect */
+  text-decoration: underline; 
 }
 
 .navbar-logo {
-  flex: 0 0 50%; /* Center logo with flexbox */
+  flex: 0 0 50%; 
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .navbar-logo img {
-  height: 60px; /* Adjust logo height as needed */
+  height: 60px; 
 }
 
 .icon-user, .icon-search, .icon-heart, .icon-cart, .icon-info-circle {
-  font-size: 20px; /* Adjust icon size if needed */
-  color: white; /* White icons for Diesel style */
+  font-size: 20px; 
+  color: white; 
 }
 
 .navbar-icons li:hover {
-  transform: scale(1.1); /* Optional hover effect */
+  transform: scale(1.1); 
   transition: transform 0.2s ease-in-out;
   cursor: pointer;
 }
 
-/* Sub-menu styles (adjust as needed) */
 .sub-menu {
   display: block;
   position: absolute;
   background-color: #fff;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   z-index: 1;
-  width: auto;
+  width: 100%;
   display: flex;
 }
 
@@ -136,11 +143,11 @@
   left: 0;
   background-color: #fff;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  z-index: 99999;
+  z-index: 1;
 }
 
 .dropdown:hover .dropdown-menu {
-  display: block;
+  display: inline-block;
 }
 
 .dropdown-menu li {
@@ -155,8 +162,9 @@
 
 @media (max-width: 768px) {
   .navbar {
-    flex-direction: column; 
+    flex-direction: column;
     align-items: center;
+    text-align: center; 
   }
 
   .navbar-links,

@@ -1,13 +1,18 @@
 /* src/components/Overlay.css */
 .overlay-container {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 100vh; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
   
   .background-image {
     width: 100%;
     height: auto;
+    z-index: -1;
   }
   
   .overlay-content {
@@ -47,4 +52,12 @@
   .shop-button:hover {
     background-color: darkred;
   }
-  
+  @media (max-width: 768px) {
+    .overlay-content {
+      font-size: 2em; 
+    }
+    .buttons {
+      flex-direction: column; 
+    }
+
+  }
