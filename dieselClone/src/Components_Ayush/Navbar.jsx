@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping, faHeart, faUser, faMagnifyingGlass, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
+import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import './Navbar.css';
 
 const Announcement = () => {
@@ -34,14 +35,32 @@ const Navbar = () => {
   //const [is1DRSubMenuOpen, setIs1DRSubMenuOpen] = useState(false);
   const [isSaleSubMenuOpen, setIsSaleSubMenuOpen] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [isJeansDropdownOpen, setIsJeansDropdownOpen] = useState(false);
+  const [isApparelDropdownOpen, setIsApparelDropdownOpen] = useState(false);
+  const [isShoeslDropdownOpen, setIsShoesDropdownOpen] = useState(false);
+  const [isAccessorieslDropdownOpen, setIsAccessoriesDropdownOpen] = useState(false);
 
   const handleManSubMenuToggle = () => {
     setIsManSubMenuOpen(!isManSubMenuOpen);
   };
+  const handleJeansDropdownToggle = () => {
+    setIsJeansDropdownOpen(!isJeansDropdownOpen); 
+  };
+  const handleApparelDropdownToggle = () => {
+    setIsApparelDropdownOpen(!isApparelDropdownOpen); 
+  };
+  const handleShoesDropdownToggle = () => {
+    setIsShoesDropdownOpen(!isShoeslDropdownOpen); 
+  };
+  const handleAccessoriesDropdownToggle = () => {
+    setIsAccessoriesDropdownOpen(!isAccessorieslDropdownOpen); 
+  };
+
 
   const handleWomanSubMenuToggle = () => {
     setIsWomanSubMenuOpen(!isWomanSubMenuOpen);
   };
+  
 
   const handleKidSubMenuToggle = () => {
     setIsKidSubMenuOpen(!isKidSubMenuOpen);
@@ -73,23 +92,139 @@ const Navbar = () => {
           {isManSubMenuOpen && (
             <ul className="sub-menu">
               <li><Link to="/man/view all">VIEW ALL</Link></li>
-              <li><Link to="/man/Jeans">JEANS</Link></li>
+              <li><Link to="/man/Jeans">JEANS
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleJeansDropdownToggle} />
+              </Link>
+              {isJeansDropdownOpen && (
+               <ul className="sub-sub-menu"> 
+               <li><Link to="/man/Jeans/all Jeans">All Jeans</Link></li>
+               <li><Link to="/man/Jeans/Diesel Library">Diesel Library</Link></li>
+               <li><Link to="/man/Jeans/Jogg Jeans">Jogg Jeans</Link></li>
+               <li><Link to="/man/Jeans/skinny">SKINNY</Link></li>
+               <li><Link to="/man/Jeans/slim">SLIM</Link></li>
+               <li><Link to="/man/Jeans/straight">STRAIGHT</Link></li>
+               <li><Link to="/man/Jeans/Tapered">TAPERED</Link></li>
+               <li><Link to="/man/Jeans/BootCut">BOOTCUT</Link></li>
+             </ul>
+           )} 
+              </li>
 
-              <li><Link to="/man/Apparel">APPAREL</Link></li>
-              <li><Link to="/man/footwear">SHOES</Link></li>
-              <li><Link to="/man/Accessories">ACCESSORIES</Link></li>
+              <li><Link to="/man/Apparel">APPAREL
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleApparelDropdownToggle} />
+              </Link>
+              {isApparelDropdownOpen && (
+              <ul className="sub-sub-menu"> 
+              <li><Link to="/man/Apparel/all apparel">All Apparel</Link></li>
+              <li><Link to="/man/Apparel/t-shirts">T-Shirts</Link></li>
+              <li><Link to="/man/Apparel/tops">Tops</Link></li>
+              <li><Link to="/man/Apparel/shirts">Shirts</Link></li>
+              <li><Link to="/man/Apparel/jackets">Jackets</Link></li>
+              <li><Link to="/man/Apparel/Sweaters & Knitwears">Sweaters & Knitwears</Link></li>
+              <li><Link to="/man/Apparel/dresses">Dresses</Link></li>
+              <li><Link to="/man/Apparel/lounge wear">Loungewear</Link></li>
+              <li><Link to="/man/Apparel/skirts">Skirts</Link></li>
+              <li><Link to="/man/Apparel/Bottom wear">Bottomwear</Link></li>
+            </ul>
+           )} 
+              </li>
+              <li><Link to="/man/shoes">SHOES
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleShoesDropdownToggle} />
+              </Link>
+              {isShoesDropdownOpen && (
+                 <ul className="sub-sub-menu"> 
+                 <li><Link to="/man/Shoes/all shoes">All Shoes</Link></li>
+                 <li><Link to="/man/Shoes/sneakers">Sneakers</Link></li>
+                 <li><Link to="/man/Shoes/sandals">Sandals</Link></li>
+                 <li><Link to="/man/Shoes/pumps">Pumps</Link></li>
+               </ul>
+              )} 
+              </li>
+
+              <li><Link to="/man/Accessories">ACCESSORIES
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleAccessoriesDropdownToggle} />
+              </Link>
+              {isAccessoriesDropdownOpen && (
+               <ul className="sub-sub-menu"> 
+               <li><Link to="/man/Accessories/all Accessories">All Accessories</Link></li>
+               <li><Link to="/man/Accessories/bags">Bags</Link></li>
+               <li><Link to="/man/Accessories/belts">Belts</Link></li>
+               <li><Link to="/man/Accessories/wallets">Wallets</Link></li>
+             </ul>
+            )}  
+              </li>
             </ul>
           )}
         </li>
+
         <li onMouseEnter={handleWomanSubMenuToggle} onMouseLeave={handleWomanSubMenuToggle}>
           <Link to="/woman">WOMAN</Link>
           {isWomanSubMenuOpen && (
             <ul className="sub-menu">
               <li><Link to="/woman/view all">VIEW ALL</Link></li>
-              <li><Link to="/woman/Jeans">JEANS</Link></li>
-              <li><Link to="/woman/Apparel">APPAREL</Link></li>
-              <li><Link to="/woman/footwear">SHOES</Link></li>
-              <li><Link to="/woman/Accessories">ACCESSORIES</Link></li>
+              <li><Link to="/woman/Jeans">JEANS
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleJeansDropdownToggle} />
+              </Link>
+              {isJeansDropdownOpen && (
+               <ul className="sub-sub-menu"> 
+               <li><Link to="/woman/Jeans/all Jeans">All Jeans</Link></li>
+               <li><Link to="/woman/Jeans/Diesel Library">Diesel Library</Link></li>
+               <li><Link to="/woman/Jeans/Jogg Jeans">Jogg Jeans</Link></li>
+               <li><Link to="/woman/Jeans/super-skinny">SUPPER SKINNY</Link></li>
+               <li><Link to="/woman/Jeans/skinny">SKINNY</Link></li>
+               <li><Link to="/woman/Jeans/slim">SLIM</Link></li>
+               <li><Link to="/woman/Jeans/boyfriend">BOYFRIEND</Link></li>
+               <li><Link to="/woman/Jeans/straight">STRAIGHT</Link></li>
+               <li><Link to="/woman/Jeans/Tapered">TAPERED</Link></li>
+               <li><Link to="/woman/Jeans/BootCut&Flare">BOOTCUT & FLARE</Link></li>
+             </ul>
+           )} 
+              </li>
+
+              <li><Link to="/woman/Apparel">APPAREL
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleApparelDropdownToggle} />
+              </Link>
+              {isApparelDropdownOpen && (
+              <ul className="sub-sub-menu"> 
+              <li><Link to="/woman/Apparel/all apparel">All Apparel</Link></li>
+              <li><Link to="/woman/Apparel/t-shirts">T-Shirts</Link></li>
+              <li><Link to="/woman/Apparel/tops">Tops</Link></li>
+              <li><Link to="/woman/Apparel/shirts">Shirts</Link></li>
+              <li><Link to="/woman/Apparel/jackets">Jackets</Link></li>
+              <li><Link to="/woman/Apparel/Sweaters & Knitwears">Sweaters & Knitwears</Link></li>
+              <li><Link to="/woman/Apparel/dresses">Dresses</Link></li>
+              <li><Link to="/woman/Apparel/lounge wear">Loungewear</Link></li>
+              <li><Link to="/woman/Apparel/skirts">Skirts</Link></li>
+              <li><Link to="/woman/Apparel/Bottom wear">Bottomwear</Link></li>
+            </ul>
+           )}
+              </li>
+              
+              <li><Link to="/woman/footwear">SHOES
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleShoesDropdownToggle} />
+              </Link>
+              {isShoesDropdownOpen && (
+                 <ul className="sub-sub-menu"> 
+                 <li><Link to="/woman/Shoes/all shoes">All Shoes</Link></li>
+                 <li><Link to="/woman/Shoes/sneakers">Sneakers</Link></li>
+                 <li><Link to="/woman/Shoes/sandals">Sandals</Link></li>
+                 <li><Link to="/woman/Shoes/pumps">Pumps</Link></li>
+               </ul>
+              )} 
+              </li>
+              
+
+              <li><Link to="/woman/Accessories">ACCESSORIES
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleAccessoriesDropdownToggle} />
+              </Link>
+              {isAccessoriesDropdownOpen && (
+               <ul className="sub-sub-menu"> 
+               <li><Link to="/man/Accessories/all Accessories">All Accessories</Link></li>
+               <li><Link to="/man/Accessories/bags">Bags</Link></li>
+               <li><Link to="/man/Accessories/belts">Belts</Link></li>
+               <li><Link to="/man/Accessories/wallets">Wallets</Link></li>
+             </ul>
+            )}  
+              </li>
             </ul>
           )}
         </li>
@@ -98,11 +233,34 @@ const Navbar = () => {
           {isKidSubMenuOpen && (
             <ul className="sub-menu">
               <li><Link to="/kid/view all">VIEW ALL</Link></li>
-              <li><Link to="/kid/Jeans">JEANS</Link></li>
-              <li><Link to="/kid/Apparel">APPAREL</Link></li>
+              <li><Link to="/kid/Jeans">JEANS
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleJeansDropdownToggle} />
+              </Link>
+              {isJeansDropdownOpen && (
+               <ul className="sub-sub-menu"> 
+               <li><Link to="/kid/Jeans/all Jeans">All Jeans</Link></li>
+             </ul>
+           )} 
+              </li>
+
+              <li><Link to="/kid/Apparel">APPAREL
+              <FontAwesomeIcon icon={faAngleDown} onClick={handleApparelDropdownToggle} />
+              </Link>
+              {isApparelDropdownOpen && (
+              <ul className="sub-sub-menu"> 
+              <li><Link to="/woman/Apparel/all apparel">All Apparel</Link></li>
+              <li><Link to="/woman/Apparel/t-shirts">T-Shirts</Link></li>
+              <li><Link to="/woman/Apparel/shirts">Shirts</Link></li>
+              <li><Link to="/woman/Apparel/jackets">Jackets</Link></li>
+              <li><Link to="/woman/Apparel/Sweaters & Knitwears">Sweaters & Knitwears</Link></li>
+              <li><Link to="/woman/Apparel/Bottom wear">Bottomwear</Link></li>
+            </ul>
+           )}
+              </li>
             </ul>
           )}
         </li>
+
         <li onMouseEnter={handleSS24SubMenuToggle} onMouseLeave={handleSS24SubMenuToggle}>
           <Link to="/ss24">SS'24</Link>
           {isSS24SubMenuOpen && (
