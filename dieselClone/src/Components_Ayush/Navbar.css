@@ -131,32 +131,36 @@
   color: #333;
   text-decoration: none;
 }
-/*.sub-sub-menu {
+.sub-sub-menu {
   display: none; 
   position: absolute;
   left: 100%;
   top: 0;
-  background-color: #fff; 
-  border: 1px solid #ddd; 
-  box-shadow: none; 
-  z-index: 1; 
-  font-family: Arial, sans-serif; 
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: none;
+  z-index: 1;
+  font-family: Arial, sans-serif;
 }
 
 .sub-menu li:hover .sub-sub-menu {
-  display: block; 
+  display: block;
+}
+
+.sub-menu li {
+  position: relative; 
 }
 
 .sub-sub-menu li {
   padding: 10px 15px;
   display: block;
   text-decoration: none;
-  color: #333; 
+  color: #333;
 }
 
 .sub-sub-menu li:hover {
   background-color: #f0f0f0; 
-}*/
+}
 
 /* dropdown-menu styling */
 .dropdown {
