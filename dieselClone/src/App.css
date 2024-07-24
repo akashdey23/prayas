@@ -1,0 +1,13 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.slider12
+{
+    border: 1px solid black;
+    /* width: 80%; */
+    height: 800px;
+    margin: auto;
+    /* margin-top: 50px; */
+}
