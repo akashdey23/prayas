@@ -1,4 +1,4 @@
-//footwear_slider
+//Male_topwear
 
 
 import React, { useState } from "react";
@@ -7,7 +7,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 import Product from "./Product";
-export default function Footwears() {
+export default function M_Topwear() {
   
     const responsive = {
         superLargeDesktop: {
@@ -31,13 +31,13 @@ export default function Footwears() {
 
       const productData = [
         {
-            "id": 39,
-            "title": "Sports Shoes",
-            "oldprice":11999,
-            "newprice": 10499,
-            "description": "Elevate your every stride. Shop Diesel EOSS footwear and walk the edge.",
-            "category": "eoss",
-            "image": "Images/eoss1.jpg",
+            "id": 67,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Top It Off with Diesel: EOSS deals on statement-making men's topwear.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss1.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -54,18 +54,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 40,
-            "title": "Sports Shoes",
+            "id": 68,
+            "title": "Men Casuals",
             "oldprice":12999,
-            "newprice": 10499,
-            "description": "Unleash your inner rebel. Exclusive Diesel EOSS footwear deals are here.",
-            "category": "eoss",
-            "image": "Images/eoss2.jpg",
+            "newprice": 11499,
+            "description": "Elevate your everyday look. Shop Diesel EOSS topwear and unleash your style.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss2.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -82,18 +82,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 41,
-            "title": "Sports Shoes",
-            "oldprice":10999,
-            "newprice": 8499,
-            "description": "Don't just walk, make a statement. Shop Diesel EOSS footwear at unbeatable prices.",
-            "category": "eoss",
-            "image": "Images/eoss3.jpg",
+            "id": 69,
+            "title": "Men Casuals",
+            "oldprice":25999,
+            "newprice": 22499,
+            "description": "From tees to jackets, find your perfect top with Diesel EOSS deals.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss3.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -110,18 +110,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 42,
-            "title": "Sports Shoes",
-            "oldprice":16999,
-            "newprice": 13499,
-            "description": "Premium footwear, exclusive deals. Walk the Diesel Way with EOSS savings.",
-            "category": "eoss",
-            "image": "Images/eoss4.jpg",
+            "id": 70,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Unconventional style, unbeatable prices. Top It Off with Diesel EOSS.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss4.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -138,18 +138,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 43,
-            "title": "Sports Shoes",
-            "oldprice":7999,
-            "newprice": 5499,
-            "description": "Reimagine your step. Diesel EOSS footwear: Comfort meets cutting-edge style.",
-            "category": "eoss",
-            "image": "Images/eoss5.jpg",
+            "id": 71,
+            "title": "Men Casuals",
+            "oldprice":35999,
+            "newprice": 32499,
+            "description": "Layer up in confidence. Shop Diesel EOSS topwear and redefine your look.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss5.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -166,18 +166,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 44,
-            "title": "Sports Shoes",
-            "oldprice":11999,
-            "newprice": 10499,
-            "description": "From everyday kicks to statement pieces. Find your perfect pair with Diesel EOSS.",
-            "category": "eoss",
-            "image": "Images/eoss6.jpg",
+            "id": 72,
+            "title": "Men Casuals",
+            "oldprice":23999,
+            "newprice": 21499,
+            "description": "Refresh your wardrobe, refresh your style. Top It Off with Diesel EOSS deals.",
+            "category": "male_eoss",
+            "image": "Images/male_eoss6.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -194,18 +194,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 45,
-            "title": "Sports Shoes",
-            "oldprice":10999,
-            "newprice": 7499,
-            "description": "Unleash your individuality. Walk the Diesel Way with exclusive EOSS footwear deals.",
-            "category": "eoss",
-            "image": "Images/eoss7.jpg",
+            "id": 73,
+            "title": "Men Casuals",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Top It Off with Confidence: Diesel EOSS sale on men's topwear. Don't miss out!",
+            "category": "male_eoss",
+            "image": "Images/male_eoss7.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -222,102 +222,18 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
           {
-            "id": 46,
-            "title": "Sports Shoes",
-            "oldprice":11999,
-            "newprice": 10499,
-            "description": "Limited time only! Walk the Diesel Way with exclusive EOSS footwear savings.",
-            "category": "eoss",
-            "image": "Images/eoss8.jpg",
-            "rating": {
-              "rate": 3.9,
-              "count": 120
-            },
-            "stock": 327,
-            "pdetails":{
-                "Material": "61%Leather,39%Cotton",
-                "Color": "Yellow",
-                "Occasion": "Casual"
-            },
-            "Rtm": "Return Time Limit: Easy 30 days return",
-            "otdetails": {
-                "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
-                "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
-                "nq": "1 N",
-                "coo": "VIETNAM",
-                "noc": "SHOES",
-                "sc": "Y03204 P5578"
-            }
-          },
-          {
-            "id": 47,
-            "title": "Sports Shoes",
-            "oldprice":8999,
-            "newprice": 5499,
-            "description": "Diesel EOSS: Where comfort meets confidence. Shop exclusive footwear deals now.",
-            "category": "eoss",
-            "image": "Images/eoss9.jpg",
-            "rating": {
-              "rate": 3.9,
-              "count": 120
-            },
-            "stock": 327,
-            "pdetails":{
-                "Material": "61%Leather,39%Cotton",
-                "Color": "Yellow",
-                "Occasion": "Casual"
-            },
-            "Rtm": "Return Time Limit: Easy 30 days return",
-            "otdetails": {
-                "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
-                "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
-                "nq": "1 N",
-                "coo": "VIETNAM",
-                "noc": "SHOES",
-                "sc": "Y03204 P5578"
-            }
-          },
-          {
-            "id": 48,
-            "title": "Sports Shoes",
-            "oldprice":11999,
-            "newprice": 10499,
-            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
-            "category": "eoss",
-            "image": "Images/eoss10.jpg",
-            "rating": {
-              "rate": 3.9,
-              "count": 120
-            },
-            "stock": 327,
-            "pdetails":{
-                "Material": "61%Leather,39%Cotton",
-                "Color": "Yellow",
-                "Occasion": "Casual"
-            },
-            "Rtm": "Return Time Limit: Easy 30 days return",
-            "otdetails": {
-                "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
-                "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
-                "nq": "1 N",
-                "coo": "VIETNAM",
-                "noc": "SHOES",
-                "sc": "Y03204 P5578"
-            }
-          },
-          {
-            "id": 49,
-            "title": "Sports Shoes",
-            "oldprice":16999,
+            "id": 74,
+            "title": "Men Casuals",
+            "oldprice":15999,
             "newprice": 12499,
             "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
-            "category": "eoss",
-            "image": "Images/eoss11.jpg",
+            "category": "male_eoss",
+            "image": "Images/male_eoss8.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -334,10 +250,38 @@ export default function Footwears() {
                 "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
                 "nq": "1 N",
                 "coo": "VIETNAM",
-                "noc": "SHOES",
+                "noc": "CASUAL",
                 "sc": "Y03204 P5578"
             }
           },
+          {
+            "id": 75,
+            "title": "Men Casuals- Hoodies",
+            "oldprice":15999,
+            "newprice": 12499,
+            "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
+            "category": "male_eoss",
+            "image": "Images/male_eoss9.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120
+            },
+            "stock": 327,
+            "pdetails":{
+                "Material": "61%Leather,39%Cotton",
+                "Color": "Yellow",
+                "Occasion": "Casual"
+            },
+            "Rtm": "Return Time Limit: Easy 30 days return",
+            "otdetails": {
+                "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
+                "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
+                "nq": "1 N",
+                "coo": "VIETNAM",
+                "noc": "CASUAL",
+                "sc": "Y03204 P5578"
+            }
+          }
       ];
 
       const product = productData.map((item) => (
@@ -352,7 +296,7 @@ export default function Footwears() {
        
   return (
     <div className="App">
-      <h1 className="header1">Walk The Diesel Way! Exclusive EOSS Footwear Deals!</h1>
+      <h1 className="header1">Top It Off : Diesel Male Topwear EOSS Specials!</h1>
       <Carousel responsive={responsive} infinite={true} >
         {product}
       </Carousel>
