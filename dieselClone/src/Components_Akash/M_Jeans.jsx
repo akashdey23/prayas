@@ -1,4 +1,4 @@
-//mensection_slider
+//men_jeans_slider
 
 
 import React, { useState } from "react";
@@ -11,7 +11,7 @@ export default function M_Jeans() {
   
     const responsive = {
         superLargeDesktop: {
-          // the naming can be any, depends on you.
+          
           breakpoint: { max: 4000, min: 3000 },
           items: 5
         },
@@ -254,7 +254,7 @@ export default function M_Jeans() {
               "sc": "Y03204 P5578"
           }
         }
-      ]
+      ];
 
       const product = productData.map((item) => (
         <Product

@@ -21,7 +21,8 @@ import Wishlist1 from './Components_Ipsa/Wishlist';
 import Searchbar from './Components_Ayush/searchbar'
 import './App.css'
 import M_Jeans from './Components_Akash/M_Jeans';
-
+import F_Jeans from './Components_Akash/F_Jeans';
+import Footwears from './Components_Akash/Footwears';
 const App = () => {
   return (
     <>
@@ -49,7 +50,14 @@ const App = () => {
         <M_Jeans/>
         
       </div>
-      
+      <br />
+      <div className='slider12'>
+        <F_Jeans/>  
+      </div>
+      <br />
+      <div className='slider12'>
+        <Footwears/>  
+      </div>
       <br />
       <Gallery/>
       <Footer/>
