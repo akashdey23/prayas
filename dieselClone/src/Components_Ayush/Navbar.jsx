@@ -32,13 +32,13 @@ const Navbar = () => {
   const [isWomanSubMenuOpen, setIsWomanSubMenuOpen] = useState(false);
   const [isKidSubMenuOpen, setIsKidSubMenuOpen] = useState(false);
   const [isSS24SubMenuOpen, setIsSS24SubMenuOpen] = useState(false);
-  //const [is1DRSubMenuOpen, setIs1DRSubMenuOpen] = useState(false);
+  const [is1DRSubMenuOpen, setIs1DRSubMenuOpen] = useState(false);
   const [isSaleSubMenuOpen, setIsSaleSubMenuOpen] = useState(false);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isJeansDropdownOpen, setIsJeansDropdownOpen] = useState(false);
   const [isApparelDropdownOpen, setIsApparelDropdownOpen] = useState(false);
-  const [isShoeslDropdownOpen, setIsShoesDropdownOpen] = useState(false);
-  const [isAccessorieslDropdownOpen, setIsAccessoriesDropdownOpen] = useState(false);
+  const [isShoesDropdownOpen, setIsShoesDropdownOpen] = useState(false);
+  const [isAccessoriesDropdownOpen, setIsAccessoriesDropdownOpen] = useState(false);
 
   const handleManSubMenuToggle = () => {
     setIsManSubMenuOpen(!isManSubMenuOpen);
@@ -50,10 +50,10 @@ const Navbar = () => {
     setIsApparelDropdownOpen(!isApparelDropdownOpen); 
   };
   const handleShoesDropdownToggle = () => {
-    setIsShoesDropdownOpen(!isShoeslDropdownOpen); 
+    setIsShoesDropdownOpen(!isShoesDropdownOpen); 
   };
   const handleAccessoriesDropdownToggle = () => {
-    setIsAccessoriesDropdownOpen(!isAccessorieslDropdownOpen); 
+    setIsAccessoriesDropdownOpen(!isAccessoriesDropdownOpen); 
   };
 
 
