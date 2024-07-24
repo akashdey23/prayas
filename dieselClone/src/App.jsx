@@ -19,8 +19,8 @@ import Cart1 from './Components_Ipsa/Cart';
 import Login1 from './Components_Ipsa/Login';
 import Wishlist1 from './Components_Ipsa/Wishlist';
 import Searchbar from './Components_Ayush/searchbar'
-import Akash from './Components_Akash/Akash';
 import './App.css'
+import M_Jeans from './Components_Akash/M_Jeans';
 
 const App = () => {
   return (
@@ -45,12 +45,14 @@ const App = () => {
       {/* Routes for pages from Ipsa */}
       </Routes>
     </Router>
-    <div className='slider12'>
-        <Akash/>
+      <div className='slider12'>
+        <M_Jeans/>
+        
       </div>
+      
+      <br />
       <Gallery/>
       <Footer/>
-      
     </>
   );
 };

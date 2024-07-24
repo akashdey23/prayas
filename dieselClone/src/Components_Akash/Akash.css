@@ -1,13 +1,19 @@
+
+
 #root {
     max-width: auto;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
   }
-  
-  h1 {
-    margin: 1rem auto 1rem;
+  .header1{
+    font-size: 2rem;
+    /* margin-top: 20px; */
+    margin-bottom: 10px;
+    padding-top: 20px;
   }
+  
+  
   
   .product--image {
     width: 100%;

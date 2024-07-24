@@ -1,10 +1,13 @@
+//mensection_slider
+
+
 import React, { useState } from "react";
 import './Akash.css';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 import Product from "./Product";
-export default function Akash() {
+export default function M_Jeans() {
   
     const responsive = {
         superLargeDesktop: {
@@ -254,7 +257,7 @@ export default function Akash() {
       ]
 
       const product = productData.map((item) => (
-        <Product 
+        <Product
            name = {item.name} 
            url = {item.image}
            oldprice = {item.oldprice}
@@ -265,7 +268,7 @@ export default function Akash() {
        
   return (
     <div className="App">
-      <h1>Iconic Denim Deals: EOSS Men's Edition!</h1>
+      <h1 className="header1">Iconic Denim Deals: EOSS Men's Edition!</h1>
       <Carousel responsive={responsive} infinite={true} >
         {product}
       </Carousel>
