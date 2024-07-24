@@ -45,11 +45,12 @@ const App = () => {
       {/* Routes for pages from Ipsa */}
       </Routes>
     </Router>
-      <Gallery/>
-      <Footer/>
-      <div className='slider12'>
+    <div className='slider12'>
         <Akash/>
       </div>
+      <Gallery/>
+      <Footer/>
+      
     </>
   );
 };
