@@ -1,7 +1,7 @@
 import React from 'react';
 import './Wishlist.css';
-
-export const Wishlist = () => {
+import { Link } from "react-router-dom";
+const Wishlist = () => {
   return (
     <>
     <div className='outerBox'>
@@ -14,3 +14,4 @@ export const Wishlist = () => {
     </>
   )
 }
+export default Wishlist;
