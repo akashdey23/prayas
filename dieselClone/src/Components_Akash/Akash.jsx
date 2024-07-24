@@ -31,7 +31,7 @@ export default function Akash() {
             name : "Designer Denim fit for Men",
             price :9999,
             "newprice": 8999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
             imageurl: "../assets/Images/denim_img_men1.jpg",
             "rating": {
@@ -55,13 +55,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 2,
-            "title": "Designer Denim fit for Men",
-            "oldprice": 7999,
+            id: 2,
+            name: "Designer Denim fit for Men",
+            price: 7999,
             "newprice": 4999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men2.jpg",
+            imageurl: "../assets/Images/denim_img_men2.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -83,13 +83,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 3,
-            "title": "Designer Denim fit for Men",
-            "oldprice": 2999,
+            id: 3,
+            name: "Designer Denim fit for Men",
+            price: 2999,
             "newprice": 1999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men3.jpg",
+            imageurl: "../assets/Images/denim_img_men2.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -111,13 +111,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 4,
-            "title": "Designer Denim fit for Men",
-            "oldprice":5999,
+            id: 4,
+            name: "Designer Denim fit for Men",
+            price:5999,
             "newprice": 4999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men4.jpg",
+            imageurl: "../assets/Images/denim_img_men4.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -139,13 +139,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 5,
-            "title": "Designer Denim fit for Men",
-            "oldprice":9999,
+            id: 5,
+            name: "Designer Denim fit for Men",
+            price:9999,
             "newprice": 8999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men5.jpg",
+            imageurl: "../assets/Images/denim_img_men5.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -167,13 +167,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 6,
-            "title": "Designer Denim fit for Men",
-            "oldprice": 3999,
+            id: 6,
+            name: "Designer Denim fit for Men",
+            price: 3999,
             "newprice": 2999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "hiiiiiii dickhead",
             "category": "men_den",
-            "image": "Images/denim_img_men6.jpg",
+            imageurl: "../assets/Images/denim_img_men6.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -195,13 +195,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 7,
-            "title": "Designer Denim fit for Men",
-            "oldprice":7999,
+            id: 7,
+            name: "Designer Denim fit for Men",
+            price:7999,
             "newprice": 6999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men7.jpg",
+            imageurl: "../assets/Images/denim_img_men7.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -223,13 +223,13 @@ export default function Akash() {
             }
           },
           {
-            "id": 8,
-            "title": "Designer Denim fit for Men",
-            "oldprice":10999,
+            id: 8,
+            name: "Designer Denim fit for Men",
+            price:10999,
             "newprice": 8999,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+            description: "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
             "category": "men_den",
-            "image": "Images/denim_img_men8.jpg",
+            imageurl: "../assets/Images/denim_img_men8.jpg",
             "rating": {
               "rate": 3.9,
               "count": 120
@@ -251,11 +251,21 @@ export default function Akash() {
             }
           },
       ]
+
+      const product = productData.map((item) => (
+        <Product 
+           name = {item.name} 
+           url = {item.imageurl}
+           price = {item.price}
+           description = {item.description}
+        />
+      ))
+       
   return (
     <div className="App">
       <h1>React Multi Carousel</h1>
-      <Carousel responsive={responsive}>
-        <Product />
+      <Carousel responsive={responsive} infinite={true} >
+        {product}
       </Carousel>
     </div>
   );
