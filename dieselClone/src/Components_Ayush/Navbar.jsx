@@ -296,7 +296,7 @@ const Navbar = () => {
         <ul>
           <li>
             <div className="dropdown" onClick={toggleDropdown}>
-              <FontAwesomeIcon icon={faUser} />
+              <Link to={"/Login"}><FontAwesomeIcon icon={faUser} /></Link>
               {isDropdownOpen && (
                 <ul className="dropdown-menu">
                   <li><Link to="/dashboard">Account Dashboard</Link></li>
@@ -327,8 +327,8 @@ const Navbar = () => {
             </div>
           </li>
           
-          <li><Link to="/wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
-          <li><Link to="/cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
+          <li><Link to="/Wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
+          <li><Link to="/Cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
         </ul>
       </div>
     </nav>

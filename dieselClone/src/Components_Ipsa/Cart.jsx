@@ -1,7 +1,8 @@
 import React from 'react'
 import './Cart.css'
+import { Link } from "react-router-dom";
 
-export const Cart = () => {
+const Cart = () => {
   return (
     <>
     <div className='bigbox'>
@@ -17,3 +18,4 @@ export const Cart = () => {
     </>
   )
 }
+export default Cart;
