@@ -1,0 +1,70 @@
+.banner-container {
+  display: flex;
+  justify-content: baseline;
+  align-items: flex-start;
+  padding: 20px;
+  /* border: 1px solid black; */
+  width: 90%;
+  margin-bottom: 25px;
+}
+
+.banner-container .banner-text-container {
+  justify-content: left;
+  align-items: center;
+  /* border: 1px solid pink; */
+  width: 25%;
+  display: inline;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.gender-selection {
+  justify-content: left;
+}
+
+.gender-selection h3 {
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.gender-selection .selected {
+  color: red;
+  font-weight: bold;
+  border-bottom: 2px solid red;
+}
+
+.parag {
+  font-size: 1em;
+  margin: 20px 0;
+  width: auto;
+}
+
+.banner-container .slider {
+  display: flex;
+  justify-content: right;
+  width: 60%;
+  /* border: 1px solid blue; */
+  background-color: #f8f4f4;
+/* 
+  margin-top: 20px;
+  margin-right: 20px; */
+
+}
+
+.slider img {
+  width: 110px;
+  height: auto;
+}
+
+.slider div {
+  text-align: center;
+  font-size: 0.85em;
+  margin: 0 10px;
+}

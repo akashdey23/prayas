@@ -29,6 +29,7 @@ import F_Topwears from './Components_Akash/F_Topwears';
 import Glasses from './Components_Akash/Glasses';
 import F_Purse from './Components_Akash/F_Bag';
 import Watch from './Components_Akash/Watch';
+import M_F_Banner from './Components_Akash/M_F_Banner';
 
 const App = () => {
   return (
@@ -55,6 +56,7 @@ const App = () => {
       {/* Routes for pages from Ipsa */}
       </Routes>
     </Router>
+    <M_F_Banner />
       <div className='slider12'>
         <M_Jeans/>
         
@@ -94,6 +96,8 @@ const App = () => {
       <br />
       <Gallery/>
       <Footer/>
+
+      
     </>
   );
 };
