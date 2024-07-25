@@ -3,22 +3,21 @@
   justify-content: baseline;
   align-items: flex-start;
   padding: 20px;
-  /* border: 1px solid black; */
   width: 90%;
   margin-bottom: 25px;
+  overflow: hidden;
 }
 
 .banner-container .banner-text-container {
   justify-content: left;
   align-items: center;
-  /* border: 1px solid pink; */
   width: 25%;
   display: inline;
   margin: auto;
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 36px; 
   margin-bottom: 10px;
   text-align: left;
 }
@@ -30,8 +29,9 @@ h1 {
 .gender-selection h3 {
   cursor: pointer;
   margin: 0 10px;
-  font-size: 1.5em;
+  font-size: 24px; 
   font-weight: normal;
+  
 }
 
 .gender-selection .selected {
@@ -41,7 +41,7 @@ h1 {
 }
 
 .parag {
-  font-size: 1em;
+  font-size: 16px; 
   margin: 20px 0;
   width: auto;
 }
@@ -50,12 +50,9 @@ h1 {
   display: flex;
   justify-content: right;
   width: 60%;
-  /* border: 1px solid blue; */
   background-color: #f8f4f4;
-/* 
   margin-top: 20px;
-  margin-right: 20px; */
-
+  margin-right: 20px;
 }
 
 .slider img {
@@ -65,6 +62,50 @@ h1 {
 
 .slider div {
   text-align: center;
-  font-size: 0.85em;
+  font-size: 14px; 
   margin: 0 10px;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 24px; 
+  }
+  .parag {
+    font-size: 14px; 
+  }
+  .banner-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .banner-text-container {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .slider {
+    width: 100%;
+    margin-top: 0;
+    margin-right: 0;
+  }
+  .slider img {
+    width: 80px;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .banner-container .slider {
+    width: 100%;
+    margin-right: 0;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .banner-container .slider {
+    width: 80%;
+    margin-right: 10px;
+  }
+}
+@media only screen and (min-width: 993px) {
+  .banner-container .slider {
+    width: 60%;
+    margin-right: 20px;
+  }
 }

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import JeansM from './JeansM';
 import JeansF from './JeansF';
-import './M_F_Banner.css'; // Import the CSS file
+import './M_F_Banner.css';
 
 const M_F_Banner = () => {
   const [selectedGender, setSelectedGender] = useState('MAN');
