@@ -1,20 +1,23 @@
+//men_jeans_slider
+
+
 import React, { useState } from "react";
 import './Akash.css';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 import Product from "./Product";
-export default function Akash() {
+export default function M_Jeans() {
   
     const responsive = {
         superLargeDesktop: {
-          // the naming can be any, depends on you.
+          
           breakpoint: { max: 4000, min: 3000 },
           items: 5
         },
         desktop: {
-          breakpoint: { max: 3000, min: 1024 },
-          items: 4
+          breakpoint: { max: 3000, min: 800 },
+          items: 5
         },
         tablet: {
           breakpoint: { max: 1024, min: 464 },
@@ -32,7 +35,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice":9999,
           "newprice": 8999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Experience ultimate comfort with our sleek, slim-fit designer denim.",
           "category": "men_den",
           "image": "Images/denim_img_men1.jpg",
           "rating": {
@@ -60,7 +63,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice": 7999,
           "newprice": 4999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Elevate your casual style with our premium, straight-leg designer jeans.",
           "category": "men_den",
           "image": "Images/denim_img_men2.jpg",
           "rating": {
@@ -88,7 +91,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice": 2999,
           "newprice": 1999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Achieve effortless cool with our modern, tapered-fit designer denim.",
           "category": "men_den",
           "image": "Images/denim_img_men3.jpg",
           "rating": {
@@ -116,7 +119,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice":5999,
           "newprice": 4999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Discover timeless appeal with our classic, relaxed-fit designer jeans.",
           "category": "men_den",
           "image": "Images/denim_img_men4.jpg",
           "rating": {
@@ -144,7 +147,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice":9999,
           "newprice": 8999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Enhance your wardrobe with our sophisticated, skinny-fit designer denim.",
           "category": "men_den",
           "image": "Images/denim_img_men5.jpg",
           "rating": {
@@ -172,7 +175,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice": 3999,
           "newprice": 2999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Stay on-trend with our versatile, boot-cut designer jeans.",
           "category": "men_den",
           "image": "Images/denim_img_men6.jpg",
           "rating": {
@@ -200,7 +203,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice":7999,
           "newprice": 6999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Unleash your inner rockstar with our edgy, distressed designer denim.",
           "category": "men_den",
           "image": "Images/denim_img_men7.jpg",
           "rating": {
@@ -228,7 +231,7 @@ export default function Akash() {
           "title": "Designer Denim fit for Men",
           "oldprice":10999,
           "newprice": 8999,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+          "description": "Make a bold statement with our unique, patchwork designer jeans.",
           "category": "men_den",
           "image": "Images/denim_img_men8.jpg",
           "rating": {
@@ -251,20 +254,21 @@ export default function Akash() {
               "sc": "Y03204 P5578"
           }
         }
-      ]
+      ];
 
       const product = productData.map((item) => (
-        <Product 
+        <Product
            name = {item.name} 
            url = {item.image}
-           price = {item.price}
+           oldprice = {item.oldprice}
+           newprice = {item.newprice}
            description = {item.description}
         />
       ))
        
   return (
     <div className="App">
-      <h1>React Multi Carousel</h1>
+      <h1 className="header1">Iconic Denim Deals: EOSS Men's Edition!</h1>
       <Carousel responsive={responsive} infinite={true} >
         {product}
       </Carousel>

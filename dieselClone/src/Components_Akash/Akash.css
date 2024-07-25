@@ -1,33 +1,54 @@
+
+
 #root {
-    max-width: 1280px;
+    max-width: auto;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
   }
-  
-  h1 {
-    margin: 1rem auto 4rem;
+  .header1{
+    font-size: 2rem;
+    /* margin-top: 20px; */
+    margin-bottom: 10px;
+    padding-top: 20px;
   }
+  
+  
   
   .product--image {
     width: 100%;
-    height: 26em;
+    height: 260px;
     object-fit: cover;
   }
   
   .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 320px;
+    box-shadow: 0 4px 2px 0px rgba(0, 0, 0, 0.7);
+    max-width: 250px;
     margin: auto 1rem;
     text-align: center;
     font-family: arial;
+    height: 480px;
+    border-top: 2px;
   }
   
   .price {
     color: grey;
     font-size: 22px;
+    justify-content: center;
   }
   
+  .price2 {
+    color: grey;
+    font-size: 13px;
+    text-decoration: line-through;
+  }
+
+  .desc {
+    color: black;
+    font-size: 1rem;
+    justify-content: center;
+  }
+
   .card button {
     border: none;
     outline: 0;

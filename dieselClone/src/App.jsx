@@ -19,8 +19,16 @@ import Cart1 from './Components_Ipsa/Cart';
 import Login1 from './Components_Ipsa/Login';
 import Wishlist1 from './Components_Ipsa/Wishlist';
 import Searchbar from './Components_Ayush/searchbar'
-import Akash from './Components_Akash/Akash';
 import './App.css'
+import M_Jeans from './Components_Akash/M_Jeans';
+import F_Jeans from './Components_Akash/F_Jeans';
+import Footwears from './Components_Akash/Footwears';
+import M_Underwears from './Components_Akash/M_Underwear';
+import M_Topwears from './Components_Akash/M_Topwears';
+import F_Topwears from './Components_Akash/F_Topwears';
+import Glasses from './Components_Akash/Glasses';
+import F_Purse from './Components_Akash/F_Bag';
+import Watch from './Components_Akash/Watch';
 
 const App = () => {
   return (
@@ -45,11 +53,45 @@ const App = () => {
       {/* Routes for pages from Ipsa */}
       </Routes>
     </Router>
+      <div className='slider12'>
+        <M_Jeans/>
+        
+      </div>
+      <br />
+      <div className='slider12'>
+        <F_Jeans/>  
+      </div>
+      <br />
+      <div className='slider12'>
+        <Footwears/>  
+      </div>
+      <br />
+      <div className='slider12'>
+        <M_Underwears />  
+      </div>
+      <br />
+      <div className='slider12'>
+        <M_Topwears />  
+      </div>
+      <br />
+      <div className='slider12'>
+        <F_Topwears />  
+      </div>
+      <br />
+      <div className='slider12'>
+        <Glasses />  
+      </div>
+      <br />
+      <div className='slider12'>
+        <F_Purse />  
+      </div>
+      <br />
+      <div className='slider12'>
+        <Watch />  
+      </div>
+      <br />
       <Gallery/>
       <Footer/>
-      <div className='slider12'>
-        <Akash/>
-      </div>
     </>
   );
 };
