@@ -21,11 +21,14 @@ const Announcement = () => {
   }, [announcementText.length]);
 
   return (
+    <div className="navbar-container">
     <div className="announcement-section">
       <p>{announcementText[currentAnnouncement]}</p>
     </div>
+  </div>
   );
 };
+
 
 const Navbar = () => {
   const [isManSubMenuOpen, setIsManSubMenuOpen] = useState(false);
