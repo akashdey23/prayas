@@ -3,20 +3,28 @@
 /* Announcement bar (optional for Diesel style) */
 .navbar-container {
   display: flex; 
-  flex-direction: column; 
+  flex-direction: column;
+
 }
 
 .announcement-section {
   background-color: #f5f5f5;
   padding: 1rem;
   text-align: center;
-  color: #333; 
+  color: #333;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
 }
 
 .announcement-section p {
   margin: 0; 
   animation: scroll 5s linear infinite;
   text-decoration: #e2231a;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
 }
 
 @keyframes scroll {
@@ -36,30 +44,41 @@
   color: white;
   padding: 1rem 2rem;
   width: 100%;
-  margin-bottom: -20px;
-  margin-top: -20px; 
-
+  margin-bottom: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
 .navbar-main {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .navbar-links {
   display: flex;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 0 10px;
+  padding: 10px 15px;
   align-items: center;
   flex-grow: 1; 
   justify-content: flex-start;
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 
-.navbar-icons {
+/*.navbar-icons {
   display: flex;
   margin: 0;
   padding: 0;
+  align-items: center;
+  justify-content: space-between;
+}*/
+.navbar-icons {
+  display: flex;
+  margin: 0 10px; 
+  padding: 0;
+  align-items: center;
+  justify-content: flex-end; 
 }
 
 .navbar-links li, .navbar-icons li {
@@ -74,6 +93,7 @@
 .navbar-links a, .navbar-icons a {
   color: white;
   text-decoration: none;
+
 }
 
 .navbar-links a:hover, .navbar-icons li:hover {
@@ -85,16 +105,20 @@
   display: flex;
   align-items: center;
   margin-left: 1rem;
+  font-size: 1.5rem;
+  max-width: 140px;
 }
 
 .navbar-logo img {
-  width: 120px;
+  width: 100%;
   height: 40px;
+  object-fit: cover;
 }
 
 .icon-user, .icon-search, .icon-heart, .icon-cart, .icon-info-circle {
   font-size: 30px; 
   color: white; 
+  margin: 0 10px;
 }
 
 .navbar-icons li:hover {
@@ -114,12 +138,14 @@
   display: flex;
 }*/
 .sub-menu {
-  display: none; /* Initially hidden */
+  display: none;
   position: absolute;
   background-color: #fff;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   z-index: 1;
   left: 0;
+  top: 100%;
+  width: 200px;
 }
 
 .navbar-links li:hover .sub-menu {
@@ -131,7 +157,10 @@
   padding: 10px;
   text-align: left;
   position: relative;
+  border-bottom: 1px solid #ddd;
+
 }
+
 .navbar-links li:hover::after {
   content: '';
   display: inline-block;
@@ -149,7 +178,13 @@
 .sub-menu a {
   color: #333;
   text-decoration: none;
+
 }
+.sub-menu a:hover {
+  background-color: #f0f0f0; 
+}
+
+/* sub-sub-menu styling*/
 .sub-sub-menu {
   display: none; 
   position: absolute;
@@ -160,6 +195,8 @@
   box-shadow: none;
   z-index: 2;
   font-family: Arial, sans-serif;
+  width: 200px;
+
 }
 
 .sub-menu li:hover .sub-sub-menu {
@@ -171,13 +208,18 @@
 }
 
 .sub-sub-menu li {
+  list-style: none;
   padding: 10px ;
-  display: block;
+  position: relative;
   text-align: left;
   text-decoration: underline;
   color: #333;
+  border-bottom: 1px solid #ddd;
 }
-
+.sub-sub-menu a {
+  text-decoration: underline;
+  color: #333;
+}
 .sub-sub-menu li:hover {
   background-color: #f0f0f0; 
 }
@@ -185,6 +227,7 @@
 /* dropdown-menu styling */
 .dropdown {
   position: relative;
+
 }
 
 .dropdown-menu {
@@ -195,6 +238,7 @@
   background-color: #fff;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   z-index: 1;
+  width: 200px;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -204,6 +248,7 @@
 .dropdown-menu li {
   list-style: none;
   padding: 10px;
+  border-bottom: 1px solid #ddd;
 }
 
 .dropdown-menu a {
@@ -232,15 +277,25 @@
   order: 1;
   margin: 0.5rem 0;
 }
-@media (min-width: 769px) {
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .navbar {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .navbar-links, .navbar-icons {
+    margin: 0.5rem;
+
+  }
+}
+@media only screen and (min-width: 993px) {
+  .navbar {
+    justify-content: space-between;
+
+  }
   .navbar-logo {
     position: absolute;
     left: 50%;
-    right: 50;
     transform: translateX(-50%);
-  }
 
-  .navbar {
-    justify-content: space-between;
   }
 }
