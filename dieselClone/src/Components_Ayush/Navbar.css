@@ -1,7 +1,7 @@
 /* Navbar.css */
 
 /* Announcement bar (optional for Diesel style) */
-.navbar-container {
+/* .navbar-container {
   display: flex; 
   flex-direction: column;
 
@@ -34,7 +34,7 @@
   100% {
     transform: translateY(-20px); 
   }
-}
+} */
 
 .navbar {
   display: flex;

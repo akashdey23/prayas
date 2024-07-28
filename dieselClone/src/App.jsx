@@ -30,11 +30,12 @@ import Glasses from './Components_Akash/Glasses';
 import F_Purse from './Components_Akash/F_Bag';
 import Watch from './Components_Akash/Watch';
 import M_F_Banner from './Components_Akash/M_F_Banner';
+import Announcement from './Components_Ayush/Announcement';
 
 const App = () => {
   return (
     <>
-    
+    <Announcement />
 
     <div className="App">
       <Navbar />
