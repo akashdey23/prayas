@@ -33,6 +33,7 @@ import M_F_Banner from './Components_Akash/M_F_Banner';
 import Announcement from './Components_Ayush/Announcement';
 import Supcart from './Components_Arjit/supCart';
 import Cartwithitems from './Components_Arjit/CartWithItems';
+import '@fortawesome/fontawesome-svg-core/styles.css';
 
 const App = () => {
   return (

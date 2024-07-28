@@ -1,36 +1,86 @@
-// src/Footer.jsx
-import React from 'react';
+import React, { useState } from 'react';
 import './Footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faFacebookF, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
+  const [email, setEmail] = useState('');
+  const [gender, setGender] = useState('');
+  const [isSignedUp, setIsSignedUp] = useState(false);
+
+  const handleEmailChange = (e) => {
+    setEmail(e.target.value);
+  };
+
+  const handleGenderChange = (e) => {
+    setGender(e.target.value);
+  };
+
+  const handleSignUp = (e) => {
+    e.preventDefault();
+    if (email && gender) {
+      setIsSignedUp(true);
+      alert('Your account was successfully added!');
+      setEmail('');
+      setGender('');
+    } else {
+      alert('Please fill in all fields!');
+    }
+  };
+
   return (
     <footer className="footer">
       <div className="footer-newsletter">
         <div className="newsletter-left">
           <h2>Sign up to never miss an update.</h2>
           <div className="newsletter-signup">
-            <input type="email" placeholder="Enter your Email address*" />
+            <input
+              type="email"
+              placeholder="Enter your Email address*"
+              value={email}
+              onChange={handleEmailChange}
+            />
             <div className="gender-selection">
               <label>
-                <input type="radio" name="gender" value="men" /> Men
+                <input
+                  type="radio"
+                  name="gender"
+                  value="men"
+                  checked={gender === 'men'}
+                  onChange={handleGenderChange}
+                />{' '}
+                Men
               </label>
               <label>
-                <input type="radio" name="gender" value="women" /> Women
+                <input
+                  type="radio"
+                  name="gender"
+                  value="women"
+                  checked={gender === 'women'}
+                  onChange={handleGenderChange}
+                />{' '}
+                Women
               </label>
             </div>
-            <p>By clicking Sign up you have read and agreed to our <a href="#">privacy policy</a></p>
-            <button>Sign up</button>
-            
+            <p>
+              By clicking Sign up you have read and agreed to our{' '}
+              <a href="#">privacy policy</a>
+            </p>
+            <button onClick={handleSignUp}>Sign up</button>
           </div>
         </div>
         <div className="newsletter-right">
-          <h2 style={{textAlign:"center"}}>Connect with us on social media</h2>
+          <h2 style={{ textAlign: "center" }}>Connect with us on social media</h2>
           <div className="social-media-links">
-          <a href="#"><FontAwesomeIcon icon={faInstagram} /></a>
-            <a href="#"><FontAwesomeIcon icon={faFacebookF} /></a>
-            <a href="#"><FontAwesomeIcon icon={faYoutube} /></a>
+            <a href="https://www.instagram.com/diesel/" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faInstagram} />
+            </a>
+            <a href="https://www.facebook.com/diesel/" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faFacebookF} />
+            </a>
+            <a href="https://www.youtube.com/user/DieselOfficial" target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faYoutube} />
+            </a>
           </div>
         </div>
       </div>

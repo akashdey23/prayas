@@ -1,24 +1,86 @@
-.loginBox{
-    /* border: 1px solid black; */
-    height: 200px;
-    width: 500px;
-    background-color: rgb(226, 222, 222);
-    margin: auto;
-    padding: 10px;
-    margin-top: 100px;
-  }
-  .title{
-    text-align: center;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-  }
-  .box{
-    width: 450px;
-    height: 30px;
-    font-size: medium;
-    /* border: 1px solid grey; */
-  }
-  .signin text{
-    font: 500;
-  }
+.loginBox {
+  height: 400px; 
+  width: 500px;
+  background-color: rgb(226, 222, 222);
+  margin: auto;
+  padding: 10px;
+  margin-top: 100px;
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-bottom: 20px; 
+}
+
+.box {
+  width: 450px;
+  height: 30px;
+  font-size: medium;
+  border: 1px solid grey; 
+  padding: 10px; 
+  margin-bottom: 20px; 
+}
+
+.signin {
+  margin-bottom: 20px; 
+}
+
+.signin label {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.otp-bar {
+  margin-top: 20px; 
+}
+
+.otp-bar input {
+  width: 450px;
+  height: 30px;
+  font-size: medium;
+  border: 1px solid grey;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.otp-bar button {
+  width: 100px;
+  height: 30px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pop-up {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.pop-up p {
+  margin-bottom: 10px;
+}
+
+.pop-up button {
+  width: 100px;
+  height: 30px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
