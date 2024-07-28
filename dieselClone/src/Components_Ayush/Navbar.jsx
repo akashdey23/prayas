@@ -331,7 +331,7 @@ const Navbar = () => {
           </li>
           
           <li><Link to="/Wishlist"><FontAwesomeIcon icon={faHeart} /></Link></li>
-          <li><Link to="/Cart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
+          <li><Link to="/Supcart"><FontAwesomeIcon icon={faCartShopping} /></Link></li>
         </ul>
       </div>
     </nav>

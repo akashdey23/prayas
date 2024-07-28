@@ -30,6 +30,8 @@ import Glasses from './Components_Akash/Glasses';
 import F_Purse from './Components_Akash/F_Bag';
 import Watch from './Components_Akash/Watch';
 import M_F_Banner from './Components_Akash/M_F_Banner';
+import Supcart from './Components_Arjit/supCart';
+import Cartwithitems from './Components_Arjit/CartWithItems';
 
 const App = () => {
   return (
@@ -53,6 +55,9 @@ const App = () => {
       <Route path="/Login" element={<Login1/>}/>
       <Route path="/Wishlist" element={<Wishlist1/>}/>
       <Route path="/searchbar" element={<Searchbar/>}/>
+      <Route path="/CartWithItems" element={<Cartwithitems/>}/>
+      <Route path="/Supcart" element={<Supcart/>}/>
+
       {/* Routes for pages from Ipsa */}
       </Routes>
     </Router>

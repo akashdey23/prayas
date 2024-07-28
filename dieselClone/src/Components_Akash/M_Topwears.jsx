@@ -291,6 +291,7 @@ export default function M_Topwear() {
            oldprice = {item.oldprice}
            newprice = {item.newprice}
            description = {item.description}
+           id={item.id}
         />
       ))
        

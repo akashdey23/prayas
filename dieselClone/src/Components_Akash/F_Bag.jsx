@@ -206,6 +206,7 @@ export default function F_Purse() {
            oldprice = {item.oldprice}
            newprice = {item.newprice}
            description = {item.description}
+           id={item.id}
         />
       ))
        
