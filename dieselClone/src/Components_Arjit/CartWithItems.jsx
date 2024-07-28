@@ -1,5 +1,6 @@
 import React, { useState,useEffect } from "react";
 import { Link } from "react-router-dom";
+import {useNavigate} from 'react-router-dom'
 import './Cartw.css';
 import axios from 'axios';
 const Cartwithitems = () => {
@@ -12,6 +13,10 @@ const Cartwithitems = () => {
     useEffect(()=>{
         rproducts();
     },[]);
+    const navigate=useNavigate();
+    const handleback=()=>{
+      navigate('/');
+    }
      const handleIncrement = (itemId) => {
     setCart((prevCart) => prevCart.map(item =>
       item.id === itemId ? { ...item, quantity: item.quantity + 1 } : item
@@ -65,6 +70,7 @@ const Cartwithitems = () => {
         <h3>Total: ₹{total.toFixed(2)}</h3>
         <p>Cash on Delivery applicable only on orders below ₹10000</p>
         <button className="checkout-button">Checkout</button>
+        <button className="checkout-button" onClick={handleback}>Back to Shopping</button>
       </div>
     </div>
         </>
