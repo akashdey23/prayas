@@ -237,6 +237,7 @@ export default function M_underwear() {
            oldprice = {item.oldprice}
            newprice = {item.newprice}
            description = {item.description}
+           id={item.id}
         />
       ))
        

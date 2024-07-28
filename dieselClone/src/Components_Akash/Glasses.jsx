@@ -319,6 +319,7 @@ export default function Glasses() {
            oldprice = {item.oldprice}
            newprice = {item.newprice}
            description = {item.description}
+           id={item.id}
         />
       ))
        

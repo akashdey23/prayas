@@ -263,6 +263,7 @@ export default function F_Jeans() {
            oldprice = {item.oldprice}
            newprice = {item.newprice}
            description = {item.description}
+           id={item.id}
         />
       ))
        
