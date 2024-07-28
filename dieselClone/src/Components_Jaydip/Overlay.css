@@ -61,16 +61,31 @@ p {
     font-size: 2em;
   }
   .buttons {
-    flex-direction: column; 
+    flex-direction: column;
   }
   .shop-button {
-    padding: 8px 16px; 
-    font-size: 0.8em; 
+    padding: 8px 16px;
+    font-size: 0.8em;
   }
   h1 {
-    font-size: 2.5em; 
+    font-size: 2.5em;
   }
   p {
-    font-size: 1.2em; 
+    font-size: 1.2em;
   }
+}
+
+.shop-button {
+  cursor: pointer;
+}
+
+.shop-button:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.shop-button:focus {
+  /* Add a focus effect on keyboard navigation */
+  outline: none;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px red;
 }
