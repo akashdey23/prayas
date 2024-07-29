@@ -3271,70 +3271,13 @@
   ],
   "cartprods": [
     {
-      "id": "116",
-      "title": "Dynamic Watch",
-      "oldprice": 43599,
-      "newprice": 34099,
-      "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
-      "category": "watches",
-      "image": "Images/watch9.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      },
-      "stock": 327,
-      "pdetails": {
-        "Material": "61%Leather,39%Cotton",
-        "Color": "Yellow",
-        "Occasion": "Casual"
-      },
-      "Rtm": "Return Time Limit: Easy 30 days return",
-      "otdetails": {
-        "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
-        "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
-        "nq": "1 N",
-        "coo": "VIETNAM",
-        "noc": "WATCHES",
-        "sc": "Y03204 P5578"
-      },
-      "quantity": 0
-    },
-    {
-      "id": "115",
-      "title": "Dynamic Watch",
-      "oldprice": 23599,
-      "newprice": 19099,
-      "description": "Stylish fasion equipped with swag and charishma of genz fashion taste",
-      "category": "watches",
-      "image": "Images/watch8.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      },
-      "stock": 327,
-      "pdetails": {
-        "Material": "61%Leather,39%Cotton",
-        "Color": "Yellow",
-        "Occasion": "Casual"
-      },
-      "Rtm": "Return Time Limit: Easy 30 days return",
-      "otdetails": {
-        "csd": "Support Number: 022- 48930102, Support Email: support@dieselindia.com",
-        "mib": "Diesel Fashion India Reliance Pvt. Ltd., 8th Floor, Maker Tower E, Cuffe Parade, Mumbai, Maharashtra, 400005.",
-        "nq": "1 N",
-        "coo": "VIETNAM",
-        "noc": "WATCHES",
-        "sc": "Y03204 P5578"
-      }
-    },
-    {
-      "id": "3",
+      "id": 2,
       "title": "Designer Denim fit for Men",
-      "oldprice": 2999,
-      "newprice": 1999,
+      "oldprice": 7999,
+      "newprice": 4999,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
       "category": "men_den",
-      "image": "Images/denim_img_men3.jpg",
+      "image": "Images/denim_img_men2.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -3356,13 +3299,13 @@
       }
     },
     {
-      "id": "10",
-      "title": "Designer Denim fit for Women",
-      "oldprice": 7999,
-      "newprice": 5999,
-      "description": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans",
-      "category": "women_den",
-      "image": "Images/denim_img_women2.jpg",
+      "id": 4,
+      "title": "Designer Denim fit for Men",
+      "oldprice": 5999,
+      "newprice": 4999,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your style and swag in your everyday fits",
+      "category": "men_den",
+      "image": "Images/denim_img_men4.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -3382,54 +3325,6 @@
         "noc": "DENIM",
         "sc": "Y03204 P5578"
       }
-    },
-    {
-      "id": "ebbf"
-    },
-    {
-      "id": "4b3d"
-    },
-    {
-      "id": "61dc"
-    },
-    {
-      "id": "84d5"
-    },
-    {
-      "id": "5a62"
-    },
-    {
-      "id": "6850"
-    },
-    {
-      "id": "2ba2"
-    },
-    {
-      "id": "2ee2"
-    },
-    {
-      "id": "12c0"
-    },
-    {
-      "id": "39d9"
-    },
-    {
-      "id": "8d5d"
-    },
-    {
-      "id": "1034"
-    },
-    {
-      "id": "17d5"
-    },
-    {
-      "id": "ff2b"
-    },
-    {
-      "id": "5f9c"
-    },
-    {
-      "id": "718d"
     }
   ],
   "users": [
@@ -3439,7 +3334,7 @@
       "email": "m.arjit2005@gmail.com",
       "mob": "7077786289",
       "otp": "0000",
-      "id": "72ff"
+      "id": "2a7b"
     }
   ],
   "admins": [
@@ -3449,7 +3344,7 @@
       "email": "m.arjit2005@gmail.com",
       "mob": "7077786289",
       "otp": "0000",
-      "id": "c34e"
+      "id": "c5ef"
     }
   ]
 }

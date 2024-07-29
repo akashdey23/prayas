@@ -11,9 +11,14 @@ export default function Product(props) {
 
 	async function getData() {
 		let res = await fetch('http://localhost:3000/products')
-		setPro(await res.json());
-		console.log(proarr);
+		let deo=await res.json();
+    deo = deo.map(item => ({
+      ...item,
+      id: Number(item.id)
+  }));
+		setPro(deo)
 	}
+		console.log(proarr);
 	useEffect(()=>{
         getData()
     },[]);
