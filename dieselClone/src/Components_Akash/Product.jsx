@@ -1,6 +1,7 @@
 import React from "react";
 import "./Akash.css";
 import { useEffect,useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 
 export default function Product(props) {
